@@ -1,6 +1,6 @@
 # Vue.js Tailwind CSS - brand new portfolio
 
-My brand new portfolio written using modern front-end technologies.
+My brand new portfolio written using modern front-end technologies like Vue.js, TypeScript, Tailwind CSS.
 
 ## Technologies
 
@@ -8,7 +8,7 @@ Used technologies:
 
 - TypeScript
 - Vue.js
-- TailwindCSS
+- Tailwind CSS
 
 Project created with:
 
