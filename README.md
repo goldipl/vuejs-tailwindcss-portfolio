@@ -1,4 +1,6 @@
-<img src="https://seeklogo.com/images/V/vuejs-logo-17D586B587-seeklogo.com.png" width="64" style="display: flex; margin: 16px auto;"/>
+<center>
+    <img src="https://seeklogo.com/images/V/vuejs-logo-17D586B587-seeklogo.com.png" width="64"/>
+</center>
 
 # Vue.js Tailwind CSS - brand new portfolio
 
