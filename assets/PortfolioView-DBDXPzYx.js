@@ -1,0 +1,1 @@
+import{_ as e,o,c as s,a as t}from"./index-Bm2oH6Nw.js";const c={},a={class:"portfolio-page"},r=t("h1",{class:"text-green-400"},"This is an portfolio page",-1),n=[r];function _(i,f){return o(),s("div",a,n)}const d=e(c,[["render",_]]);export{d as default};

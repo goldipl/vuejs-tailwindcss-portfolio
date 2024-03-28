@@ -1,0 +1,1 @@
+import{_ as e,o as s,c,a as n}from"./index-Bm2oH6Nw.js";const o={},t={class:"references-page"},r=n("h1",null,"This is an references page",-1),a=[r];function _(i,f){return s(),c("div",t,a)}const l=e(o,[["render",_]]);export{l as default};
