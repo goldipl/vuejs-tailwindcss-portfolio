@@ -1,6 +1,18 @@
-# vue-project
+# Vue.js Tailwind CSS - brand new portfolio
 
-This template should help get you started developing with Vue 3 in Vite.
+My brand new portfolio written using modern front-end technologies.
+
+## Technologies
+
+Used technologies:
+
+- TypeScript
+- Vue.js
+- TailwindCSS
+
+Project created with:
+
+- Vite
 
 ## Live link
 
