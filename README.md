@@ -1,3 +1,5 @@
+<img src="https://seeklogo.com/images/V/vuejs-logo-17D586B587-seeklogo.com.png" width="64" style="display: flex; margin: 16px auto;"/>
+
 # Vue.js Tailwind CSS - brand new portfolio
 
 My brand new portfolio written using modern front-end technologies like Vue.js, TypeScript, Tailwind CSS.
@@ -18,7 +20,7 @@ Project created with:
 
 - https://goldipl.github.io/vuejs-tailwindcss-portfolio/
 
-# How to open project locally? Info below.
+## How to open project locally? Info below.
 
 ### Project Setup
 
