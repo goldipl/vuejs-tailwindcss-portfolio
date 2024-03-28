@@ -1,10 +1,10 @@
-<center>
+<p align="center">
     <img src="https://seeklogo.com/images/V/vuejs-logo-17D586B587-seeklogo.com.png" width="64"/>
-</center>
+</p>
 
-# Vue.js Tailwind CSS - brand new portfolio
+<h1 align="center">Vue.js Tailwind CSS - brand new portfolio</h1>
 
-My brand new portfolio written using modern front-end technologies like Vue.js, TypeScript, Tailwind CSS.
+<p align="center">My brand new portfolio written using modern front-end technologies like Vue.js, TypeScript, Tailwind CSS.</p>
 
 ## Technologies
 
