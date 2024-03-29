@@ -1,13 +1,16 @@
-<script>
+<script lang="ts">
+import type { ComponentOptions } from 'vue'
 import AOS from 'aos'
 import 'aos/dist/aos.css'
 
-export default {
+const AOSInitializer: ComponentOptions = {
   mounted() {
     // Initialize AOS when the component is mounted
     AOS.init()
   }
 }
+
+export default AOSInitializer
 </script>
 
 <template>
