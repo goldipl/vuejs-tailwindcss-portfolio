@@ -68,9 +68,4 @@ import { RouterLink } from 'vue-router'
   background-size: 600vh;
   background-attachment: fixed;
 }
-.white-shape {
-  svg {
-    width: 100%;
-  }
-}
 </style>

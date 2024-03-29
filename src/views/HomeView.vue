@@ -7,3 +7,11 @@ import AboutMeSection from '../components/home/AboutMeSection.vue'
   <HeroComponent />
   <AboutMeSection />
 </template>
+
+<style>
+.white-shape {
+  svg {
+    width: 100%;
+  }
+}
+</style>
