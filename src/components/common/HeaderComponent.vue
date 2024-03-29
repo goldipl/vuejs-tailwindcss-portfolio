@@ -17,7 +17,9 @@ import { RouterLink } from 'vue-router'
       </RouterLink>
       <nav class="flex justify-between items-center w-3/5">
         <RouterLink class="text-gray-300 text-lg hover:text-white" to="/">Home</RouterLink>
-        <RouterLink class="text-gray-300 text-lg hover:text-white" to="/about">About</RouterLink>
+        <RouterLink class="text-gray-300 text-lg hover:text-white" to="/about-me"
+          >About me</RouterLink
+        >
         <RouterLink class="text-gray-300 text-lg hover:text-white" to="/portfolio"
           >Portfolio</RouterLink
         >
