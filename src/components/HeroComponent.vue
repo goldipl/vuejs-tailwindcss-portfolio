@@ -18,10 +18,10 @@ import { RouterLink } from 'vue-router'
           landing page, serwisów e-commerce.
         </p>
         <div class="my-7">
-          <RouterLink
+          <a
             class="text-gray-300 text-sm hover:text-white px-4 py-3 me-4 border hover:border-purple-600 transition-all duration-500"
-            to="#about-me-section"
-            >Dowiedz się więcej</RouterLink
+            href="#about-me-section"
+            >Dowiedz się więcej</a
           >
           <RouterLink
             class="text-gray-300 text-sm hover:text-white px-4 py-3 border hover:border-purple-600 transition-all duration-500"
