@@ -1,6 +1,6 @@
 <template>
   <div class="references-page">
-    <h1>This is an references page</h1>
+    <h1>This is a references page</h1>
   </div>
 </template>
 
