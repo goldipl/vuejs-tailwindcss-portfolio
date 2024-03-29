@@ -16,7 +16,11 @@ export default AOSInitializer
 <template>
   <div class="hero-container w-full mt-[-1rem]">
     <div class="relative z-10 flex top-[10vh] justify-center items-center">
-      <div class="flex flex-col max-w-[640px] me-24" data-aos="fade-right" data-aos-duration="1500">
+      <div
+        class="flex flex-col max-w-[640px] 2xl:me-24"
+        data-aos="fade-right"
+        data-aos-duration="1500"
+      >
         <h1 class="text-5xl mb-4">
           Tworzę
           <span
