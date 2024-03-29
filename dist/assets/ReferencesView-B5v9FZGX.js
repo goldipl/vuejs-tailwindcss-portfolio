@@ -1,0 +1,1 @@
+import{_ as e,o as s,c,a as o}from"./index-B4NEtuaw.js";const t={},n={class:"references-page"},r=o("h1",null,"This is a references page",-1),a=[r];function _(i,f){return s(),c("div",n,a)}const l=e(t,[["render",_]]);export{l as default};
