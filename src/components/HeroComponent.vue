@@ -14,8 +14,8 @@ import { RouterLink } from 'vue-router'
           ><br />serwisy internetowe
         </h1>
         <p class="text-sm max-w-[480px]">
-          Jestem Web Developerem z ponad 3 letnim doświadczeniem w kodowaniu stron internetowych,
-          landing page, serwisów e-commerce.
+          Jestem Front-end Developerem z ponad 3 letnim doświadczeniem w kodowaniu stron
+          internetowych, landing page, serwisów e-commerce.
         </p>
         <div class="my-7">
           <a

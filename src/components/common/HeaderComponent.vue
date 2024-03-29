@@ -12,7 +12,7 @@ import { RouterLink } from 'vue-router'
       <RouterLink to="/">
         <p class="relative text-white font-rock text-2xl top-[-4px]">
           Marcin Godlewski
-          <span class="absolute bottom-[-16px] right-[-16px] text-sm">Web Developer</span>
+          <span class="absolute bottom-[-16px] right-[-16px] text-sm">Front-end Developer</span>
         </p>
       </RouterLink>
       <nav class="flex justify-between items-center w-3/5">
