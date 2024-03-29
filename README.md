@@ -13,6 +13,7 @@ Used technologies:
 - TypeScript
 - Vue.js
 - Tailwind CSS
+- AoS.js
 
 Project created with:
 

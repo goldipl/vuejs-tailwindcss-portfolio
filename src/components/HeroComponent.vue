@@ -1,11 +1,19 @@
-<script setup lang="ts">
-import { RouterLink } from 'vue-router'
+<script>
+import AOS from 'aos'
+import 'aos/dist/aos.css'
+
+export default {
+  mounted() {
+    // Initialize AOS when the component is mounted
+    AOS.init()
+  }
+}
 </script>
 
 <template>
   <div class="hero-container w-full mt-[-1rem]">
     <div class="relative z-10 flex top-[10vh] justify-center items-center">
-      <div class="flex flex-col max-w-[640px] me-24">
+      <div class="flex flex-col max-w-[640px] me-24" data-aos="fade-right" data-aos-duration="1500">
         <h1 class="text-5xl mb-4">
           Tworzę
           <span
@@ -30,7 +38,7 @@ import { RouterLink } from 'vue-router'
           >
         </div>
       </div>
-      <div class="flex">
+      <div class="flex" data-aos="fade-left" data-aos-duration="1500">
         <img src="./../assets/img/hero/frontend-icons.svg" alt="Frontend Icons" />
       </div>
     </div>
