@@ -1,0 +1,1 @@
+import{_ as o,o as e,c as s,a as t}from"./index-B4NEtuaw.js";const c={},a={class:"portfolio-page"},r=t("h1",null,"This is a portfolio page",-1),_=[r];function n(i,l){return e(),s("div",a,_)}const d=o(c,[["render",n]]);export{d as default};
