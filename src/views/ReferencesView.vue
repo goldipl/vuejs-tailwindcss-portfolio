@@ -1,5 +1,5 @@
 <template>
-  <div class="references-page">
+  <div class="wrapper references-page">
     <h1>This is a references page</h1>
   </div>
 </template>
