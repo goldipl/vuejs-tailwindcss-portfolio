@@ -4,7 +4,7 @@ import { RouterLink } from 'vue-router'
 
 <template>
   <header
-    class="w-full before:content-[''] before:block before:bg-gradient-to-t from-purple-600 from-15% to-black before:top-0 before:left-0 before:absolute before:h-16 before:w-full mb-4"
+    class="w-full max-w-[1280px] m-auto before:content-[''] before:block before:bg-gradient-to-t from-purple-600 from-15% to-black before:top-0 before:left-0 before:absolute before:h-16 before:w-full mb-4"
   >
     <div
       class="relative bg-gradient-to-t from-purple-600 from-15% to-black flex justify-between items-center h-16"
