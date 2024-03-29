@@ -9,7 +9,12 @@
   font-family: 'Oxanium', sans-serif;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 body {
   overflow-x: clip;
   font-family: 'Oxanium', sans-serif;
+  scroll-behavior: smooth;
 }
