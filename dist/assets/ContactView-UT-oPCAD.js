@@ -1,0 +1,1 @@
+import{_ as e,o as t,c,a as o}from"./index-ZL5hdoyn.js";const s={},a={class:"wrapper contact-page"},n=o("h1",null,"This is a contact page",-1),_=[n];function r(i,d){return t(),c("div",a,_)}const l=e(s,[["render",r]]);export{l as default};
