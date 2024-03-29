@@ -1,8 +1,12 @@
+<script setup lang="ts">
+import { RouterLink } from 'vue-router'
+</script>
+
 <template>
   <div class="hero-container w-full mt-[-1rem]">
     <div class="relative z-10 flex top-[10vh] justify-center items-center">
       <div class="flex flex-col max-w-[640px] me-24">
-        <h1 class="text-5xl mb-6">
+        <h1 class="text-5xl mb-4">
           Tworzę
           <span
             class="bg-gradient-to-r from-purple-600 from-15% to-white bg-clip-text text-transparent font-semibold"
@@ -13,6 +17,18 @@
           Jestem Web Developerem z ponad 3 letnim doświadczeniem w kodowaniu stron internetowych,
           landing page, serwisów e-commerce.
         </p>
+        <div class="my-7">
+          <RouterLink
+            class="text-gray-300 text-sm hover:text-white px-4 py-3 me-4 border hover:border-purple-600 transition-all duration-500"
+            to="#about-me-section"
+            >Dowiedz się więcej</RouterLink
+          >
+          <RouterLink
+            class="text-gray-300 text-sm hover:text-white px-4 py-3 border hover:border-purple-600 transition-all duration-500"
+            to="/portfolio"
+            >Moje projekty</RouterLink
+          >
+        </div>
       </div>
       <div class="flex">
         <img src="./../assets/img/hero/frontend-icons.svg" alt="Frontend Icons" />
