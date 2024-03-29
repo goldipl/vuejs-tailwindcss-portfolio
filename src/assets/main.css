@@ -1,7 +1,11 @@
 @import './base.css';
 
 #app {
-  max-width: 1280px;
   margin: 0 auto;
   font-weight: normal;
+}
+
+.wrapper {
+  margin: 0 auto;
+  max-width: 1280px;
 }
