@@ -46,7 +46,7 @@ export default AOSInitializer
         </div>
       </div>
       <div class="flex" data-aos="fade-left" data-aos-duration="1500">
-        <img src="./../assets/img/hero/frontend-icons.svg" alt="Frontend Icons" />
+        <img src="./../../assets/img/hero/frontend-icons.svg" alt="Frontend Icons" />
       </div>
     </div>
     <div class="white-shape">
@@ -76,7 +76,7 @@ export default AOSInitializer
       rgba(0, 255, 247, 0.1294117647) -125%,
       rgba(0, 0, 0, 0.5294117647) 95%
     ),
-    url(./../assets/img/hero/hero.jpg);
+    url(./../../assets/img/hero/hero.jpg);
   color: #ffffff;
   background-position: bottom;
   background-repeat: no-repeat;
