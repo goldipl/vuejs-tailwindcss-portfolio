@@ -6,6 +6,8 @@
       <div class="flex flex-row items-start justify-center">
         <div
           class="flex flex-col items-center justify-center max-w-[300px] px-16 m-4 border border-1 rounded-xl border-gray-400 min-h-80 hover:border-purple-600 transition-all duration-500"
+          data-aos="fade-down"
+          data-aos-duration="800"
         >
           <img
             src="./../../assets/img/home/services/services_seo.svg"
@@ -18,6 +20,8 @@
         </div>
         <div
           class="flex flex-col items-center justify-center max-w-[300px] px-16 m-4 border border-1 rounded-xl border-gray-400 min-h-80 hover:border-purple-600 transition-all duration-500"
+          data-aos="fade-down"
+          data-aos-duration="1600"
         >
           <img
             src="./../../assets/img/home/services/services_clean_code.svg"
@@ -32,6 +36,8 @@
         </div>
         <div
           class="flex flex-col items-center justify-center max-w-[300px] px-16 m-4 border border-1 rounded-xl border-gray-400 min-h-80 hover:border-purple-600 transition-all duration-500"
+          data-aos="fade-down"
+          data-aos-duration="2400"
         >
           <img
             src="./../../assets/img/home/services/services_on_time.svg"
