@@ -1,1 +1,0 @@
-import{_ as e,o as s,c,a as r}from"./index-BCW3gPWC.js";const o={},t={class:"wrapper references-page"},a=r("h1",null,"This is a references page",-1),n=[a];function _(i,f){return s(),c("div",t,n)}const p=e(o,[["render",_]]);export{p as default};
