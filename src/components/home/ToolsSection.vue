@@ -1,5 +1,5 @@
 <template>
-  <section id="tools-section" class="pb-64">
+  <section id="tools-section" class="pb-36">
     <h1 class="text-center text-4xl">Narzędzia</h1>
     <div
       class="flex items-center justify-center my-12 flex-wrap max-w-[1080px] mx-auto"
