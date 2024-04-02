@@ -1,5 +1,5 @@
 <template>
-  <div id="about-me-section" class="wrapper flex flex-row items-start my-24">
+  <section id="about-me-section" class="wrapper flex flex-row items-start my-24">
     <div>
       <div class="img-animation w-64 mb-4">
         <img
@@ -30,7 +30,7 @@
         osób fizycznych, stron typu landing page, czy serwisów e-commerce.
       </p>
     </div>
-  </div>
+  </section>
 </template>
 
 <style scoped>
