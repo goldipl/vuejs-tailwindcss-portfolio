@@ -248,7 +248,7 @@
       data-aos-duration="1000"
     >
       <div class="flex me-16 min-w-[180px]">
-        <p class="text-sm">CMS <span>&#8599;</span></p>
+        <p class="text-sm">CMS</p>
       </div>
       <div class="flex flex-wrap">
         <div
