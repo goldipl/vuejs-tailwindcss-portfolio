@@ -1,3 +1,15 @@
+<script lang="ts">
+import { defineComponent } from 'vue'
+import AboutMeButton from '../buttons/AboutMeButton.vue'
+
+export default defineComponent({
+  name: 'ExperienceSection',
+  components: {
+    AboutMeButton
+  }
+})
+</script>
+
 <template>
   <section id="about-me-section" class="wrapper flex flex-row items-start my-24">
     <div data-aos="fade-right" data-aos-duration="1000">
@@ -14,7 +26,7 @@
         <strong class="inline-flex text-center">mgr inż. Marcin Godlewski</strong>
       </div>
     </div>
-    <div class="ms-8 mt-12" data-aos="fade-left" data-aos-duration="1000">
+    <div class="ms-8" data-aos="fade-left" data-aos-duration="1000">
       <h2 class="text-4xl mb-4">Witaj na mojej stronie</h2>
       <p class="mb-2">
         Jestem absolwentem dziennych studiów I i II stopnia na Politechnice Warszawskiej z tytułem
@@ -29,6 +41,7 @@
         Posiadam wieloletnie doświadczenie w projektowaniu i kodowaniu stron internetowych dla firm,
         osób fizycznych, stron typu landing page, czy serwisów e-commerce.
       </p>
+      <AboutMeButton />
     </div>
   </section>
 </template>
