@@ -19,7 +19,7 @@ export default AOSInitializer
       <div
         class="flex flex-col max-w-[640px] 2xl:me-24"
         data-aos="fade-right"
-        data-aos-duration="1500"
+        data-aos-duration="2000"
       >
         <h1 class="text-5xl mb-4">
           Tworzę
@@ -45,7 +45,7 @@ export default AOSInitializer
           >
         </div>
       </div>
-      <div class="flex" data-aos="fade-left" data-aos-duration="1500">
+      <div class="flex" data-aos="fade-left" data-aos-duration="2000">
         <img src="./../../assets/img/hero/frontend-icons.svg" alt="Frontend Icons" />
       </div>
     </div>
