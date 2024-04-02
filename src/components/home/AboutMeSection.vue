@@ -3,7 +3,7 @@
     <div>
       <div class="img-animation w-64 mb-4">
         <img
-          src="./../../assets/img/home/cv-photo.jpg"
+          src="./../../assets/img/home/about_me/cv-photo.jpg"
           alt="Zdjęcie profilowe"
           width="300"
           height="300"
