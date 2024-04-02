@@ -20,7 +20,7 @@ export default AOSInitializer
       data-aos="fade-right"
       data-aos-duration="2500"
     >
-      <div class="flex flex-col max-w-[640px] 2xl:me-24">
+      <div class="flex flex-col max-w-[640px]">
         <h1
           class="text-5xl bg-gradient-to-r from-purple-600 from-15% to-white bg-clip-text text-transparent font-semibold"
         >
