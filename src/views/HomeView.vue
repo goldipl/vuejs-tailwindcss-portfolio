@@ -7,6 +7,7 @@ import ToolsSection from '../components/home/ToolsSection.vue'
 import ExperienceSection from '../components/home/ExperienceSection.vue'
 import ContactSection from '../components/home/ContactSection.vue'
 import PortfolioSection from '../components/home/PortfolioSection.vue'
+import ReferencesSection from '../components/home/ReferencesSection.vue'
 </script>
 
 <template>
@@ -18,6 +19,7 @@ import PortfolioSection from '../components/home/PortfolioSection.vue'
   <ExperienceSection />
   <ContactSection />
   <PortfolioSection />
+  <ReferencesSection />
 </template>
 
 <style>
