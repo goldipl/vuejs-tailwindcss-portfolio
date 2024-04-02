@@ -21,6 +21,7 @@
           <a
             class="uppercase font-semibold text-white text-sm hover:text-black"
             href="https://www.se.pl/"
+            target="_blank"
             >live</a
           >
         </div>
@@ -40,6 +41,7 @@
           <a
             class="uppercase font-semibold text-white text-sm hover:text-black"
             href="https://www.poradnikzdrowie.pl/"
+            target="_blank"
             >live</a
           >
         </div>
@@ -59,6 +61,7 @@
           <a
             class="uppercase font-semibold text-white text-sm hover:text-black"
             href="https://beszamel.se.pl/"
+            target="_blank"
             >live</a
           >
         </div>
@@ -78,6 +81,7 @@
           <a
             class="uppercase font-semibold text-white text-sm hover:text-black"
             href="https://mediateka.pl/"
+            target="_blank"
             >live</a
           >
         </div>
@@ -97,6 +101,7 @@
           <a
             class="uppercase font-semibold text-white text-sm hover:text-black"
             href="https://www.eska.pl/"
+            target="_blank"
             >live</a
           >
         </div>
@@ -105,7 +110,7 @@
       <div class="relative border border-1 border-purple-600">
         <img
           src="./../../assets/img/portfolio/commercial_zpr/CommercialWebsite06.jpg"
-          alt="muratordom.pl/"
+          alt="muratordom.pl"
           width="460"
           height="230"
           class="h-auto"
@@ -116,6 +121,67 @@
           <a
             class="uppercase font-semibold text-white text-sm hover:text-black"
             href="https://muratordom.pl/"
+            target="_blank"
+            >live</a
+          >
+        </div>
+      </div>
+      <!-- Project -->
+      <div class="relative border border-1 border-purple-600">
+        <img
+          src="./../../assets/img/portfolio/commercial_zpr/CommercialWebsite07.jpg"
+          alt="vivelo.pl"
+          width="460"
+          height="230"
+          class="h-auto"
+        />
+        <div
+          class="absolute left-0 bottom-0 bg-gradient-to-r from-purple-600 from-45% to-black w-48 p-2 flex justify-around items-center"
+        >
+          <a
+            class="uppercase font-semibold text-white text-sm hover:text-black"
+            href="https://vivelo.pl/"
+            target="_blank"
+            >live</a
+          >
+        </div>
+      </div>
+      <!-- Project -->
+      <div class="relative border border-1 border-purple-600">
+        <img
+          src="./../../assets/img/portfolio/commercial_zpr/CommercialWebsite08.jpg"
+          alt="eskarock.pl"
+          width="460"
+          height="230"
+          class="h-auto"
+        />
+        <div
+          class="absolute left-0 bottom-0 bg-gradient-to-r from-purple-600 from-45% to-black w-48 p-2 flex justify-around items-center"
+        >
+          <a
+            class="uppercase font-semibold text-white text-sm hover:text-black"
+            href="https://www.eskarock.pl/"
+            target="_blank"
+            >live</a
+          >
+        </div>
+      </div>
+      <!-- Project -->
+      <div class="relative border border-1 border-purple-600">
+        <img
+          src="./../../assets/img/portfolio/commercial_zpr/CommercialWebsite09.jpg"
+          alt="urzadzamy.pl"
+          width="460"
+          height="230"
+          class="h-auto"
+        />
+        <div
+          class="absolute left-0 bottom-0 bg-gradient-to-r from-purple-600 from-45% to-black w-48 p-2 flex justify-around items-center"
+        >
+          <a
+            class="uppercase font-semibold text-white text-sm hover:text-black"
+            href="https://www.urzadzamy.pl/"
+            target="_blank"
             >live</a
           >
         </div>
