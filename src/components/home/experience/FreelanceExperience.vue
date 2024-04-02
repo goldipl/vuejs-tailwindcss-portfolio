@@ -18,7 +18,7 @@
           href="https://goldipl.github.io/PhotographersLandingPage/"
           class="underline text-sm decoration-purple-600 hover:no-underline"
           target="_blank"
-          >Photographer's Landing Page <span>&#8599;</span></a
+          >Photographer's Landing Page <span>&#10132;</span></a
         >
       </div>
       <div class="flex flex-wrap">
@@ -70,7 +70,7 @@
           href="https://goldipl.github.io/aflux-next/"
           class="underline text-sm decoration-purple-600 hover:no-underline"
           target="_blank"
-          >Aflux <span>&#8599;</span></a
+          >Aflux <span>&#10132;</span></a
         >
       </div>
       <div class="flex flex-wrap">
@@ -122,7 +122,7 @@
           href="https://goldipl.github.io/travel-website/"
           class="underline text-sm decoration-purple-600 hover:no-underline"
           target="_blank"
-          >AroundTheWorld <span>&#8599;</span></a
+          >AroundTheWorld <span>&#10132;</span></a
         >
       </div>
       <div class="flex flex-wrap">
@@ -169,7 +169,7 @@
           href="https://www.metroprojekt.pl/"
           class="underline text-sm decoration-purple-600"
           target="_blank"
-          >metroprojekt.pl <span>&#8599;</span></a
+          >metroprojekt.pl <span>&#10132;</span></a
         >
       </div>
       <div class="flex flex-wrap">
@@ -206,7 +206,7 @@
           href="https://www.fizjomedica.radom.pl/"
           class="underline text-sm decoration-purple-600 hover:no-underline"
           target="_blank"
-          >fizjomedica.radom.pl <span>&#8599;</span></a
+          >fizjomedica.radom.pl <span>&#10132;</span></a
         >
       </div>
       <div class="flex flex-wrap">
@@ -253,7 +253,7 @@
           href="http://macmanew.tiphost.net/template/index.php"
           class="underline text-sm decoration-purple-600 hover:no-underline"
           target="_blank"
-          >MACMA.pl <span>&#8599;</span></a
+          >MACMA.pl <span>&#10132;</span></a
         >
       </div>
       <div class="flex flex-wrap">
@@ -315,7 +315,7 @@
           href="http://sparknew.tiphost.net/template/index.php"
           class="underline text-sm decoration-purple-600 hover:no-underline"
           target="_blank"
-          >SparkPromotions.pl <span>&#8599;</span></a
+          >SparkPromotions.pl <span>&#10132;</span></a
         >
       </div>
       <div class="flex flex-wrap">
@@ -367,7 +367,7 @@
           href="http://promoteca.tiphost.net/"
           class="underline text-sm decoration-purple-600 hover:no-underline"
           target="_blank"
-          >Promoteca.pl <span>&#8599;</span></a
+          >Promoteca.pl <span>&#10132;</span></a
         >
       </div>
       <div class="flex flex-wrap">
@@ -419,7 +419,7 @@
           href="https://goldipl.github.io/DreamTEXwebsite/"
           class="underline text-sm decoration-purple-600 hover:no-underline"
           target="_blank"
-          >Dreamtex.pl <span>&#8599;</span></a
+          >Dreamtex.pl <span>&#10132;</span></a
         >
       </div>
       <div class="flex flex-wrap">
@@ -461,7 +461,7 @@
           href="https://goldipl.github.io/PROMObis.pl/"
           class="underline text-sm decoration-purple-600 hover:no-underline"
           target="_blank"
-          >Promobis.pl <span>&#8599;</span></a
+          >Promobis.pl <span>&#10132;</span></a
         >
       </div>
       <div class="flex flex-wrap">
@@ -489,3 +489,17 @@
     </div>
   </div>
 </template>
+
+<style scoped>
+.flex.me-16 {
+  position: relative;
+}
+.flex.me-16 a > span {
+  position: absolute;
+  transform: translateX(4px);
+}
+.flex.me-16 a:hover span {
+  transition: 0.4s;
+  transform: translateX(8px);
+}
+</style>

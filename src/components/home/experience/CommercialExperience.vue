@@ -20,7 +20,7 @@
           href="https://projekty.muratordom.pl/"
           class="underline text-sm decoration-purple-600 hover:no-underline"
           target="_blank"
-          >projekty.muratordom.pl <span>&#8599;</span></a
+          >projekty.muratordom.pl <span>&#10132;</span></a
         >
       </div>
       <div class="flex flex-wrap">
@@ -67,7 +67,7 @@
           href="https://www.voxfm.pl/"
           class="underline text-sm decoration-purple-600 hover:no-underline"
           target="_blank"
-          >voxfm.pl <span>&#8599;</span></a
+          >voxfm.pl <span>&#10132;</span></a
         >
       </div>
       <div class="flex flex-wrap">
@@ -104,7 +104,7 @@
           href="https://www.vibefm.pl/"
           class="underline text-sm decoration-purple-600 hover:no-underline"
           target="_blank"
-          >vibefm.pl <span>&#8599;</span></a
+          >vibefm.pl <span>&#10132;</span></a
         >
       </div>
       <div class="flex flex-wrap">
@@ -141,7 +141,7 @@
           href="https://www.eska.pl/"
           class="underline text-sm decoration-purple-600 hover:no-underline"
           target="_blank"
-          >eska.pl <span>&#8599;</span></a
+          >eska.pl <span>&#10132;</span></a
         >
       </div>
       <div class="flex flex-wrap">
@@ -178,7 +178,7 @@
           href="https://dwa.eska.pl/"
           class="underline text-sm decoration-purple-600 hover:no-underline"
           target="_blank"
-          >dwa.eska.pl <span>&#8599;</span></a
+          >dwa.eska.pl <span>&#10132;</span></a
         >
       </div>
       <div class="flex flex-wrap">
@@ -215,7 +215,7 @@
           href="https://www.se.pl/"
           class="underline text-sm decoration-purple-600 hover:no-underline"
           target="_blank"
-          >se.pl <span>&#8599;</span></a
+          >se.pl <span>&#10132;</span></a
         >
       </div>
       <div class="flex flex-wrap">
@@ -298,7 +298,7 @@
           href="https://beszamel.se.pl/"
           class="underline text-sm decoration-purple-600 hover:no-underline"
           target="_blank"
-          >beszamel.se.pl <span>&#8599;</span></a
+          >beszamel.se.pl <span>&#10132;</span></a
         >
       </div>
       <div class="flex flex-wrap">
@@ -321,3 +321,17 @@
     </div>
   </div>
 </template>
+
+<style scoped>
+.flex.me-16 {
+  position: relative;
+}
+.flex.me-16 a > span {
+  position: absolute;
+  transform: translateX(4px);
+}
+.flex.me-16 a:hover span {
+  transition: 0.4s;
+  transform: translateX(8px);
+}
+</style>
