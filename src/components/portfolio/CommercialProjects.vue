@@ -7,7 +7,7 @@
     </p>
     <div class="flex flex-wrap justify-center items-center gap-5 my-6">
       <!-- Project -->
-      <div class="relative my-4 border border-1 border-purple-600">
+      <div class="relative border border-1 border-purple-600">
         <img
           src="./../../assets/img/portfolio/commercial_zpr/CommercialWebsite01.jpg"
           alt="se.pl"
@@ -26,7 +26,7 @@
         </div>
       </div>
       <!-- Project -->
-      <div class="relative my-4 border border-1 border-purple-600">
+      <div class="relative border border-1 border-purple-600">
         <img
           src="./../../assets/img/portfolio/commercial_zpr/CommercialWebsite02.jpg"
           alt="poradnikzdrowie.pl"
@@ -45,7 +45,7 @@
         </div>
       </div>
       <!-- Project -->
-      <div class="relative my-4 border border-1 border-purple-600">
+      <div class="relative border border-1 border-purple-600">
         <img
           src="./../../assets/img/portfolio/commercial_zpr/CommercialWebsite03.jpg"
           alt="beszamel.se.pl"
@@ -64,7 +64,7 @@
         </div>
       </div>
       <!-- Project -->
-      <div class="relative my-4 border border-1 border-purple-600">
+      <div class="relative border border-1 border-purple-600">
         <img
           src="./../../assets/img/portfolio/commercial_zpr/CommercialWebsite04.jpg"
           alt="mediateka.pl"
@@ -83,7 +83,7 @@
         </div>
       </div>
       <!-- Project -->
-      <div class="relative my-4 border border-1 border-purple-600">
+      <div class="relative border border-1 border-purple-600">
         <img
           src="./../../assets/img/portfolio/commercial_zpr/CommercialWebsite05.jpg"
           alt="eska.pl"
@@ -102,7 +102,7 @@
         </div>
       </div>
       <!-- Project -->
-      <div class="relative my-4 border border-1 border-purple-600">
+      <div class="relative border border-1 border-purple-600">
         <img
           src="./../../assets/img/portfolio/commercial_zpr/CommercialWebsite06.jpg"
           alt="muratordom.pl/"
