@@ -10,9 +10,9 @@ import { RouterLink } from 'vue-router'
       class="relative mx-auto max-w-[1200px] bg-gradient-to-t from-purple-600 from-15% to-black flex justify-between items-center h-16"
     >
       <RouterLink to="/">
-        <p class="relative text-white font-rock text-2xl top-[-4px]">
+        <p class="relative text-white font-megrim text-4xl top-[-6px]">
           Marcin Godlewski
-          <span class="absolute bottom-[-16px] right-[-16px] text-sm">Front-end Developer</span>
+          <span class="absolute bottom-[-16px] right-[-24px] text-sm">Front-end Developer</span>
         </p>
       </RouterLink>
       <nav class="flex justify-between items-center w-3/5">

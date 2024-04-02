@@ -4,7 +4,7 @@ export default {
   content: [],
   theme: {
     fontFamily: {
-      'rock': [ 'Rock Salt', 'cursive'],
+      'megrim': [ 'Megrim', 'system-ui'],
     },
     extend: {},
   },
