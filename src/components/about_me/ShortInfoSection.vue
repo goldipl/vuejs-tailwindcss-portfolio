@@ -29,6 +29,21 @@
         Posiadam wieloletnie doświadczenie w projektowaniu i kodowaniu stron internetowych dla firm,
         osób fizycznych, stron typu landing page, czy serwisów e-commerce.
       </p>
+      <p class="mb-2 text-center">
+        Brałem udział w kodowaniu największych serwisów radiowych i informacyjnych w Polsce, między innymi:
+        <ul class="text-center">
+          <li><a href="https://www.se.pl/" class="text-sm bg-gradient-to-r from-purple-600 from-25% to-gray-500 bg-clip-text text-transparent font-semibold mt-2">- https://www.se.pl/</a></li>
+          <li><a href="https://www.eska.pl/" class="text-sm bg-gradient-to-r from-purple-600 from-25% to-gray-500 bg-clip-text text-transparent font-semibold mt-2">- https://www.eska.pl/</a></li>
+          <li><a href="https://www.voxfm.pl/" class="text-sm bg-gradient-to-r from-purple-600 from-25% to-gray-500 bg-clip-text text-transparent font-semibold mt-2">- https://www.voxfm.pl/</a></li>
+          <li><a href="https://muratordom.pl/" class="text-sm bg-gradient-to-r from-purple-600 from-25% to-gray-500 bg-clip-text text-transparent font-semibold mt-2">- https://muratordom.pl/</a></li>
+        </ul>
+      </p>
+      <p class="mb-2 mt-4 text-center">
+        czy też jednego z największych przedstawicieli e-commerce w zakresie branży projektów budowlanych:
+        <ul class="text-center">
+          <li><a href="https://projekty.muratordom.pl/" class="underline text-sm bg-gradient-to-r from-purple-600 from-25% to-gray-500 bg-clip-text text-transparent font-semibold mt-2 hover:no-underline">- https://projekty.muratordom.pl/</a></li>
+        </ul>
+      </p>
     </div>
   </section>
 </template>
