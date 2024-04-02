@@ -5,6 +5,7 @@ import ShortExperienceSection from '../components/about_me/ShortExperienceSectio
 import SkillsSection from '../components/home/SkillsSection.vue'
 import ToolsSection from '../components/home/ToolsSection.vue'
 import EducationSection from '../components/about_me/EducationSection.vue'
+import QuoteSection from '../components/about_me/QuoteSection.vue'
 </script>
 
 <template>
@@ -14,4 +15,5 @@ import EducationSection from '../components/about_me/EducationSection.vue'
   <SkillsSection />
   <ToolsSection />
   <EducationSection />
+  <QuoteSection />
 </template>

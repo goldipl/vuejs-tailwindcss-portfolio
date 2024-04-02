@@ -1,10 +1,6 @@
 <template>
   <section id="about-me-section" class="wrapper flex flex-col items-start my-24">
-    <div
-      class="flex flex-col justify-center items-center w-full"
-      data-aos="fade-right"
-      data-aos-duration="1000"
-    >
+    <div class="flex flex-col justify-center items-center w-full">
       <div class="img-animation w-64 mb-4">
         <img
           src="./../../assets/img/home/about_me/cv-photo.jpg"
@@ -18,7 +14,7 @@
         <strong class="inline-flex text-center">mgr inż. Marcin Godlewski</strong>
       </div>
     </div>
-    <div class="mt-12" data-aos="fade-left" data-aos-duration="1000">
+    <div class="mt-12">
       <h2 class="text-4xl mb-4 text-center">Witaj na stronie "O mnie"</h2>
       <p class="mb-2 text-center">
         Jestem absolwentem dziennych studiów I i II stopnia na Politechnice Warszawskiej z tytułem
