@@ -24,7 +24,7 @@ export default AOSInitializer
         <h1
           class="text-5xl bg-gradient-to-r from-purple-600 from-15% to-white bg-clip-text text-transparent font-semibold"
         >
-          O mnie
+          Portfolio
         </h1>
       </div>
     </div>
