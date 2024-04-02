@@ -1,7 +1,7 @@
 <template>
   <section id="short-experience-section" class="pt-36 pb-48">
     <div class="wrapper">
-      <h1 class="text-center text-4xl mb-6">Doświadczenie "w pigułce"</h1>
+      <h1 class="text-center text-4xl mb-10">Doświadczenie "w pigułce"</h1>
       <div class="my-6">
         <p class="text-center">06.2023 - obecnie</p>
         <p
