@@ -1,12 +1,11 @@
 <script setup lang="ts">
 import ShortHeroComponent from '../components/about_me/ShortHeroComponent.vue'
+import ShortInfoSection from '../components/about_me/ShortInfoSection.vue'
 </script>
 
 <template>
   <ShortHeroComponent />
-  <div class="wrapper about-page">
-    <h1>This is an about page</h1>
-  </div>
+  <ShortInfoSection />
 </template>
 
 <style scoped></style>
