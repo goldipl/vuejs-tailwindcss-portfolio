@@ -4,10 +4,10 @@ import { RouterLink } from 'vue-router'
 
 <template>
   <header
-    class="w-full max-w-[1200px] m-auto before:content-[''] before:block before:bg-gradient-to-t from-purple-600 from-15% to-black before:top-0 before:left-0 before:absolute before:h-16 before:w-full mb-4"
+    class="relative w-full m-auto before:content-[''] before:block before:bg-gradient-to-t from-purple-600 from-15% to-black before:top-0 before:left-0 before:absolute before:h-16 before:w-full mb-4"
   >
     <div
-      class="relative bg-gradient-to-t from-purple-600 from-15% to-black flex justify-between items-center h-16"
+      class="relative mx-auto max-w-[1200px] bg-gradient-to-t from-purple-600 from-15% to-black flex justify-between items-center h-16"
     >
       <RouterLink to="/">
         <p class="relative text-white font-rock text-2xl top-[-4px]">
