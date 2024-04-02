@@ -18,16 +18,16 @@ import { RouterLink } from 'vue-router'
       <nav class="flex justify-between items-center w-3/5">
         <RouterLink class="text-gray-300 text-lg hover:text-white" to="/">Home</RouterLink>
         <RouterLink class="text-gray-300 text-lg hover:text-white" to="/about-me"
-          >About me</RouterLink
+          >O mnie</RouterLink
         >
         <RouterLink class="text-gray-300 text-lg hover:text-white" to="/portfolio"
           >Portfolio</RouterLink
         >
         <RouterLink class="text-gray-300 text-lg hover:text-white" to="/references"
-          >References</RouterLink
+          >Referencje</RouterLink
         >
         <RouterLink class="text-gray-300 text-lg hover:text-white" to="/contact"
-          >Contact</RouterLink
+          >Kontakt</RouterLink
         >
       </nav>
     </div>
