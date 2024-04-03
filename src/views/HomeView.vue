@@ -28,4 +28,13 @@ import ReferencesSection from '../components/home/ReferencesSection.vue'
     width: 100%;
   }
 }
+
+@media (max-width: 800px) {
+  .white-shape {
+    svg {
+      width: 150%;
+      height: 36px;
+    }
+  }
+}
 </style>
