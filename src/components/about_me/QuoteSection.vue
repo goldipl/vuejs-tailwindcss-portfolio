@@ -1,5 +1,5 @@
 <template>
-  <section id="quote-section" class="wrapper flex flex-col items-start my-12 md:my-20 md:my-24">
+  <section id="quote-section" class="wrapper flex flex-col items-start my-12 md:my-24">
     <i class="text-center mx-4"
       >Nasz rozwój nigdy się nie kończy, składa się z mnóstwa etapów i kiedy już człowiek myśli, że
       osiągnął ostatni, otwiera się przed nim kolejny. Ale właśnie to jest fantastyczne! To jak

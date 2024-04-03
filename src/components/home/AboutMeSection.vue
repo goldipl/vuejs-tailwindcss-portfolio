@@ -13,7 +13,7 @@ export default defineComponent({
 <template>
   <section
     id="about-me-section"
-    class="wrapper flex flex-col md:flex-row items-center md:items-start my-12 md:my-20 md:my-24"
+    class="wrapper flex flex-col md:flex-row items-center md:items-start py-12 md:py-24"
   >
     <div class="mb-8 md:mb-0" data-aos="fade-right" data-aos-duration="1000">
       <div class="img-animation w-64 mb-2 md:mb-4">
