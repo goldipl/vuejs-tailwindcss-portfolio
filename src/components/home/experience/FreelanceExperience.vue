@@ -1,6 +1,6 @@
 <template>
   <div class="flex flex-col mx-4">
-    <p class="text-center">06.2023 - obecnie</p>
+    <p class="text-center mx-4">06.2023 - obecnie</p>
     <strong
       class="flex justify-center my-0.5 text-lg text-center bg-gradient-to-r from-purple-600 from-15% to-white bg-clip-text text-transparent font-semibold"
       >Front-end Developer</strong

@@ -13,7 +13,7 @@ export default defineComponent({
 <template>
   <section
     id="about-me-section"
-    class="wrapper flex flex-col md:flex-row items-center md:items-start my-20 md:my-24"
+    class="wrapper flex flex-col md:flex-row items-center md:items-start my-12 md:my-20 md:my-24"
   >
     <div class="mb-8 md:mb-0" data-aos="fade-right" data-aos-duration="1000">
       <div class="img-animation w-64 mb-2 md:mb-4">
@@ -25,7 +25,7 @@ export default defineComponent({
         />
       </div>
       <div class="flex flex-col items-center">
-        <p class="text-center">Front-end Developer</p>
+        <p class="text-center mx-4">Front-end Developer</p>
         <strong class="inline-flex text-center">mgr inż. Marcin Godlewski</strong>
       </div>
     </div>

@@ -1,12 +1,14 @@
 <template>
-  <section class="my-20">
+  <section class="my-12 md:my-20">
     <div class="projects-container modern-websites pt-24 pb-56 mb-24">
-      <h2 class="text-4xl mb-4 text-center">
+      <h2 class="text-3xl md:text-4xl mb-4 text-center">
         Projekty stron w React.js <span class="text-purple-600">|</span> Next.js
         <span class="text-purple-600">|</span> Vue.js
       </h2>
-      <p class="text-center">Projekty stron kodowane w oparciu o najnowszy stack technologiczny.</p>
-      <p class="text-center">
+      <p class="text-center mx-4">
+        Projekty stron kodowane w oparciu o najnowszy stack technologiczny.
+      </p>
+      <p class="text-center mx-4">
         W projektach wykorzystuję:
         <strong>React.js, Next.js, Vue.js, TypeScript, styled-components, Tailwind CSS, SCSS</strong
         >.

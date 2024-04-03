@@ -1,23 +1,23 @@
 <template>
-  <section class="my-20">
+  <section class="my-12 md:my-20">
     <div class="projects-container modern-websites pt-24 pb-56 mb-24">
-      <h2 class="text-4xl mb-4 text-center">
+      <h2 class="text-3xl md:text-4xl mb-4 text-center">
         Projekt sklepu internetowego <span class="uppercase text-blue-300">Promoteca</span
         ><span class="text-lg">.pl</span>
       </h2>
-      <p class="text-center">
+      <p class="text-center mx-4">
         Front projektu został zakodowany na podstawie gotowego projektu graficznego w
         <strong>Figmie</strong>.
       </p>
-      <p class="text-center">
+      <p class="text-center mx-4">
         Jest to projekt strony e-commerce oparty na szablonach <strong>PHP</strong> wykorzystujący
         <strong>HTML5, CSS3, SCSS, Vanilla JavaScript, Swiper.js</strong>.
       </p>
-      <p class="text-center">
+      <p class="text-center mx-4">
         Zawiera stronę główną, stronę kategorii, stronę produktu, stronę logowania, rejestracji,
         stronę tekstową, stronę kontaktu, panelu klienta.
       </p>
-      <p class="text-center">
+      <p class="text-center mx-4">
         Poniżej przykładowe szablony projektu. Cały projekt znajduje się na
         <a
           href="https://github.com/goldipl/PROMOTECA"

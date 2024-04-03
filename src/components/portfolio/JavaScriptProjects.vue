@@ -1,11 +1,13 @@
 <template>
-  <section class="my-20">
+  <section class="my-12 md:my-20">
     <div class="projects-container mb-24">
-      <h2 class="text-4xl mb-4 text-center">
+      <h2 class="text-3xl md:text-4xl mb-4 text-center">
         Projekty JavaScript <span class="text-purple-600">|</span> TypeScript
         <span class="text-purple-600">|</span> React.js
       </h2>
-      <p class="text-center">Projekty aplikacji napisanych w języku JavaScript i jej pochodnych.</p>
+      <p class="text-center mx-4">
+        Projekty aplikacji napisanych w języku JavaScript i jej pochodnych.
+      </p>
       <div class="wide-wrapper flex flex-wrap justify-center items-center gap-4 my-6">
         <!-- Project -->
         <div class="relative border border-1 border-purple-600">

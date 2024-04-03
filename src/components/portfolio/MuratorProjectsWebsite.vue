@@ -1,24 +1,24 @@
 <template>
-  <section class="my-20">
+  <section class="my-12 md:my-20">
     <!-- Projekty Muratora -->
     <div class="projects-container murator-projekty pt-24 pb-56 mb-24">
-      <h2 class="text-4xl mb-4 text-center">
+      <h2 class="text-3xl md:text-4xl mb-4 text-center">
         Projekt komercyjny <strong>murator</strong
         ><span class="text-orange-400 font-thin">projekty</span>
       </h2>
-      <p class="text-center">
+      <p class="text-center mx-4">
         Projekt budowlanego serwisu e-commerce kodowany w ramach pracy jako Web Developer w Grupie
         ZPR Media S.A.
       </p>
-      <p class="text-center">
+      <p class="text-center mx-4">
         Serwis budowany od zera w zakresie back-endu, jak i front-endu. Front oparty na
         technologiach takich jak: <strong>HTML5, SCSS, Vanilla JavaScript</strong>.
       </p>
-      <p class="text-center">
+      <p class="text-center mx-4">
         Rotatory w projekcie wykorzystują bibliotekę <strong>Swiper.js</strong>. Back-end projektu
         stoi na: <strong>Django, Python</strong>.
       </p>
-      <p class="text-center">
+      <p class="text-center mx-4">
         W projekcie byłem odpowiedzialny za część Front-end'ową, a poniżej zamieszczam wybrane
         podstrony projektu.
       </p>

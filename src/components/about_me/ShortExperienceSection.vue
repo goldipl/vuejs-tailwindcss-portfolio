@@ -1,33 +1,33 @@
 <template>
-  <section id="short-experience-section" class="pt-36 pb-48">
+  <section id="short-experience-section" class="pt-24 pb-32 md:pt-36 md:pb-48">
     <div class="wrapper">
-      <h1 class="text-center text-4xl mb-10">Doświadczenie "w pigułce"</h1>
+      <h1 class="text-3xl text-center mx-4 md:text-4xl mb-10">Doświadczenie "w pigułce"</h1>
       <div class="my-6">
-        <p class="text-center">06.2023 - obecnie</p>
+        <p class="text-center mx-4">06.2023 - obecnie</p>
         <p
-          class="my-0.5 text-lg text-center bg-gradient-to-r from-purple-600 from-15% to-white bg-clip-text text-transparent font-semibold"
+          class="my-0.5 text-lg text-center mx-4 bg-gradient-to-r from-purple-600 from-15% to-white bg-clip-text text-transparent font-semibold"
         >
           Front-end Developer
         </p>
-        <p class="text-center">Freelancer</p>
+        <p class="text-center mx-4">Freelancer</p>
       </div>
       <div class="my-6">
-        <p class="text-center">05.2021 - obecnie</p>
+        <p class="text-center mx-4">05.2021 - obecnie</p>
         <p
-          class="my-0.5 text-lg text-center bg-gradient-to-r from-purple-600 from-15% to-white bg-clip-text text-transparent font-semibold"
+          class="my-0.5 text-lg text-center mx-4 bg-gradient-to-r from-purple-600 from-15% to-white bg-clip-text text-transparent font-semibold"
         >
           Web Developer / Webmaster
         </p>
-        <p class="text-center">Grupa ZPR Media S.A.</p>
+        <p class="text-center mx-4">Grupa ZPR Media S.A.</p>
       </div>
       <div class="my-6">
-        <p class="text-center">02.2021 - 04.2021</p>
+        <p class="text-center mx-4">02.2021 - 04.2021</p>
         <p
-          class="my-0.5 text-lg text-center bg-gradient-to-r from-purple-600 from-15% to-white bg-clip-text text-transparent font-semibold"
+          class="my-0.5 text-lg text-center mx-4 bg-gradient-to-r from-purple-600 from-15% to-white bg-clip-text text-transparent font-semibold"
         >
           Web Developer
         </p>
-        <p class="text-center">Grupa ZPR Media S.A.</p>
+        <p class="text-center mx-4">Grupa ZPR Media S.A.</p>
       </div>
     </div>
     <div class="white-shape">

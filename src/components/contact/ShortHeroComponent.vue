@@ -22,7 +22,7 @@ export default AOSInitializer
     >
       <div class="flex flex-col max-w-[640px]">
         <h1
-          class="text-5xl bg-gradient-to-r from-purple-600 from-15% to-white bg-clip-text text-transparent font-semibold"
+          class="text-3xl md:text-5xl bg-gradient-to-r from-purple-600 from-15% to-white bg-clip-text text-transparent font-semibold"
         >
           Kontakt
         </h1>

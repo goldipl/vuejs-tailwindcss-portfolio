@@ -1,55 +1,55 @@
 <template>
-  <section id="education-section" class="pt-36 pb-48">
+  <section id="education-section" class="pt-24 pb-32 md:pt-36 md:pb-48">
     <div class="wrapper">
-      <h1 class="text-center text-4xl mb-10">Wykształcenie</h1>
+      <h1 class="text-center mx-4 text-4xl mb-10">Wykształcenie</h1>
       <!-- Education slot -->
       <div class="my-6">
-        <p class="text-center">10/2021 – 06/2022</p>
+        <p class="text-center mx-4">10/2021 – 06/2022</p>
         <p
-          class="my-0.5 text-lg text-center bg-gradient-to-r from-purple-600 from-15% to-white bg-clip-text text-transparent font-semibold"
+          class="my-0.5 text-lg text-center mx-4 bg-gradient-to-r from-purple-600 from-15% to-white bg-clip-text text-transparent font-semibold"
         >
           Akademia Leona Koźmińskiego
         </p>
-        <p class="text-center">kierunek: Informatyka</p>
-        <p class="text-center">studia podyplomowe: Frontend Development z React</p>
+        <p class="text-center mx-4">kierunek: Informatyka</p>
+        <p class="text-center mx-4">studia podyplomowe: Frontend Development z React</p>
       </div>
       <!-- Education slot -->
       <div class="my-6">
-        <p class="text-center">10/2019 – 09/2020</p>
+        <p class="text-center mx-4">10/2019 – 09/2020</p>
         <p
-          class="my-0.5 text-lg text-center bg-gradient-to-r from-purple-600 from-15% to-white bg-clip-text text-transparent font-semibold"
+          class="my-0.5 text-lg text-center mx-4 bg-gradient-to-r from-purple-600 from-15% to-white bg-clip-text text-transparent font-semibold"
         >
           Politechnika Warszawska
         </p>
-        <p class="text-center">Wydział Elektroniki i Technik Informacyjnych</p>
-        <p class="text-center">kierunek: Informatyka</p>
-        <p class="text-center">studia podyplomowe: Java EE – produkcja oprogramowania</p>
+        <p class="text-center mx-4">Wydział Elektroniki i Technik Informacyjnych</p>
+        <p class="text-center mx-4">kierunek: Informatyka</p>
+        <p class="text-center mx-4">studia podyplomowe: Java EE – produkcja oprogramowania</p>
       </div>
       <!-- Education slot -->
       <div class="my-6">
-        <p class="text-center">10/2012 – 10/2018</p>
+        <p class="text-center mx-4">10/2012 – 10/2018</p>
         <p
-          class="my-0.5 text-lg text-center bg-gradient-to-r from-purple-600 from-15% to-white bg-clip-text text-transparent font-semibold"
+          class="my-0.5 text-lg text-center mx-4 bg-gradient-to-r from-purple-600 from-15% to-white bg-clip-text text-transparent font-semibold"
         >
           Politechnika Warszawska
         </p>
-        <p class="text-center">
+        <p class="text-center mx-4">
           Wydział Instalacji Budowlanych, Hydrotechniki i Inżynierii Środowiska
         </p>
-        <p class="text-center">
+        <p class="text-center mx-4">
           kierunek: Inżynieria Środowiska (studia stacjonarne I i II stopnia)
         </p>
-        <p class="text-center">specjalność: Inżynieria Sanitarna i Wodna oraz ZwWiOŚ</p>
+        <p class="text-center mx-4">specjalność: Inżynieria Sanitarna i Wodna oraz ZwWiOŚ</p>
       </div>
       <!-- Education slot -->
       <div class="my-6">
-        <p class="text-center">09/2009 – 04/2011</p>
+        <p class="text-center mx-4">09/2009 – 04/2011</p>
         <p
-          class="my-0.5 text-lg text-center bg-gradient-to-r from-purple-600 from-15% to-white bg-clip-text text-transparent font-semibold"
+          class="my-0.5 text-lg text-center mx-4 bg-gradient-to-r from-purple-600 from-15% to-white bg-clip-text text-transparent font-semibold"
         >
           XXI L.O. im. Hugona Kołłątaja w Warszawie
         </p>
-        <p class="text-center">profil: matematyczno-informatyczny</p>
+        <p class="text-center mx-4">profil: matematyczno-informatyczny</p>
       </div>
     </div>
     <div class="white-shape">

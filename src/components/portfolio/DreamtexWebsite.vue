@@ -1,27 +1,27 @@
 <template>
-  <section class="my-20">
+  <section class="my-12 md:my-20">
     <div class="projects-container modern-websites pt-24 pb-56 mb-24">
-      <h2 class="text-4xl mb-4 text-center">
+      <h2 class="text-3xl md:text-4xl mb-4 text-center">
         Projekt sklepu internetowego <span class="uppercase text-blue-800">Dream</span
         ><span class="uppercase text-blue-300">tex</span><span class="text-lg">.pl</span>
       </h2>
-      <p class="text-center">
+      <p class="text-center mx-4">
         Front projektu został zakodowany na podstawie gotowego projektu graficznego w
         <strong>Adobe XD</strong>.
       </p>
-      <p class="text-center">
+      <p class="text-center mx-4">
         Jest to projekt strony statycznej opartej na <strong>HTML5, SCSS</strong> i
         <strong>Vanilla Javascript</strong> wykorzystujący <strong>Swiper.js</strong> oraz
         <strong>Lightbox.js</strong>.
       </p>
-      <p class="text-center">
+      <p class="text-center mx-4">
         Zawiera stronę główną, stronę kategorii, stronę produktu, stronę logowania, rejestracji,
         newsy, stronę artykułu,
       </p>
-      <p class="text-center">
+      <p class="text-center mx-4">
         stronę kontaktu, ofert, ulubionych produktów, koszyk oraz profile admina.
       </p>
-      <p class="text-center">
+      <p class="text-center mx-4">
         Poniżej przykładowe szablony projektu. Komplet linków, jak również cały projekt znajduje się
         na
         <a

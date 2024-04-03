@@ -1,12 +1,12 @@
 <template>
-  <section class="my-20">
+  <section class="my-12 md:my-20">
     <div class="projects-container mb-24">
-      <h2 class="text-4xl mb-4 text-center">Projekty komercyjne</h2>
-      <p class="text-center">
+      <h2 class="text-3xl md:text-4xl mb-4 text-center">Projekty komercyjne</h2>
+      <p class="text-center mx-4">
         Wybrane projekty stron <strong>AWD</strong> realizowane w ramach pracy jako
         <strong>Web Developer</strong> w <strong>Grupie ZPR Media S.A.</strong>
       </p>
-      <p class="text-center">
+      <p class="text-center mx-4">
         W poniższych projektach byłem odpowiedzialny za <strong>Front-end</strong>.
       </p>
       <div class="wide-wrapper flex flex-wrap justify-center items-center gap-4 my-6">

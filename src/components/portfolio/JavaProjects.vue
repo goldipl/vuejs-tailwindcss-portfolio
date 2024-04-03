@@ -1,8 +1,10 @@
 <template>
-  <section class="my-20">
+  <section class="my-12 md:my-20">
     <div class="projects-container java-projects pt-24 pb-56 mb-24">
-      <h2 class="text-4xl mb-4 text-center">Projekty <span class="text-red-600">Java</span></h2>
-      <p class="text-center">
+      <h2 class="text-3xl md:text-4xl mb-4 text-center">
+        Projekty <span class="text-red-600">Java</span>
+      </h2>
+      <p class="text-center mx-4">
         Projekty aplikacji napisane w języku programowania <strong>Java</strong>.
       </p>
       <div class="wide-wrapper flex flex-wrap justify-center items-center gap-4 my-6">

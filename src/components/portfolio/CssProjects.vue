@@ -1,10 +1,12 @@
 <template>
-  <section class="my-20">
+  <section class="my-12 md:my-20">
     <div class="projects-container mb-24">
-      <h2 class="text-4xl mb-4 text-center">
+      <h2 class="text-3xl md:text-4xl mb-4 text-center">
         Projekty <span class="uppercase text-blue-600">css</span>3
       </h2>
-      <p class="text-center">Przydatne rozwiązania w zakresie kaskadowych arkuszy stylów CSS3.</p>
+      <p class="text-center mx-4">
+        Przydatne rozwiązania w zakresie kaskadowych arkuszy stylów CSS3.
+      </p>
       <div class="wide-wrapper flex flex-wrap justify-center items-center gap-4 my-6">
         <!-- Project -->
         <div class="relative border border-1 border-purple-600">

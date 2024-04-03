@@ -1,12 +1,12 @@
 <template>
-  <section class="my-20">
+  <section class="my-12 md:my-20">
     <div class="projects-container mb-24">
-      <h2 class="text-4xl mb-4 text-center">Projekty stron statycznych</h2>
-      <p class="text-center">
+      <h2 class="text-3xl md:text-4xl mb-4 text-center">Projekty stron statycznych</h2>
+      <p class="text-center mx-4">
         Projekty kodowane zgodnie z technologią <strong>RWD</strong>, w głównej mierze oparte na
         stacku: <strong>HTML5, CSS3, SCSS, Vanilla JavaScript</strong>.
       </p>
-      <p class="text-center">
+      <p class="text-center mx-4">
         Rotatory użyte w projektach korzystają z biblioteki
         <strong>Swiper.js</strong>.
       </p>

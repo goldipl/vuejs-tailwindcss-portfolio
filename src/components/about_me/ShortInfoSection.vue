@@ -1,5 +1,5 @@
 <template>
-  <section id="about-me-section" class="wrapper flex flex-col items-start my-20 md:my-24">
+  <section id="about-me-section" class="wrapper flex flex-col items-start my-12 md:my-20 md:my-24">
     <div class="flex flex-col justify-center items-center w-full">
       <div class="img-animation w-64 mb-4">
         <img
@@ -10,26 +10,26 @@
         />
       </div>
       <div class="flex flex-col items-center">
-        <p class="text-center">Front-end Developer</p>
+        <p class="text-center mx-4">Front-end Developer</p>
         <strong class="inline-flex text-center">mgr inż. Marcin Godlewski</strong>
       </div>
     </div>
     <div class="mt-12">
-      <h2 class="text-4xl mb-4 text-center">Witaj na stronie "O mnie"</h2>
-      <p class="mb-2 text-center">
+      <h2 class="text-3xl md:text-4xl mb-4 text-center">Witaj na stronie "O mnie"</h2>
+      <p class="mx-4 mb-2 text-center">
         Jestem absolwentem dziennych studiów I i II stopnia na Politechnice Warszawskiej z tytułem
         <strong>magistra inżyniera</strong> uzyskanym w październiku 2018r.
       </p>
-      <p class="mb-2 text-center">
+      <p class="mx-4 mb-2 text-center">
         Ukończyłem <strong>Informatykę na Politechnice Warszawskiej</strong> na kierunku: Java EE –
         produkcja oprogramowania oraz jestem absolwentem studiów podyplomowych z zakresu
         <strong>Frontend Development z React na Akademii Leona Koźmińskiego</strong> w Warszawie.
       </p>
-      <p class="mb-2 text-center">
+      <p class="mx-4 mb-2 text-center">
         Posiadam wieloletnie doświadczenie w projektowaniu i kodowaniu stron internetowych dla firm,
         osób fizycznych, stron typu landing page, czy serwisów e-commerce.
       </p>
-      <p class="mb-2 text-center">
+      <p class="mx-4 mb-2 text-center">
         Brałem udział w kodowaniu największych serwisów radiowych i informacyjnych w Polsce, między innymi:
         <ul class="text-center">
           <li><a href="https://www.se.pl/" class="text-sm bg-gradient-to-r from-purple-600 from-25% to-gray-500 bg-clip-text text-transparent font-semibold mt-2 hover:bg-gradient-to-l hover:from-25% hover:from-black hover:to-purple-600">- https://www.se.pl/</a></li>

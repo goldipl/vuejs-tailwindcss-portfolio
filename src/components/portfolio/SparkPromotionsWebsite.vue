@@ -1,28 +1,30 @@
 <template>
-  <section class="my-20">
+  <section class="my-12 md:my-20">
     <div class="projects-container mb-24">
-      <h2 class="text-4xl mb-4 text-center">
+      <h2 class="text-3xl md:text-4xl mb-4 text-center">
         Projekt sklepu internetowego <span class="uppercase">Spark</span>
         <span class="uppercase text-lime-600">Promotions</span><span class="text-lg">.pl</span>
       </h2>
-      <p class="text-center">
+      <p class="text-center mx-4">
         Front projektu został zakodowany na podstawie gotowego projektu graficznego w
         <strong>Figmie</strong>.
       </p>
-      <p class="text-center">
+      <p class="text-center mx-4">
         Jest to projekt strony e-commerce oparty na szablonach <strong>PHP</strong> wykorzystujący
         <strong>HTML5, CSS3, SCSS, Vanilla JavaScript, Swiper.js, Lightbox.js</strong>.
       </p>
-      <p class="text-center">
+      <p class="text-center mx-4">
         Zawiera stronę główną, stronę kategorii, stronę produktu, stronę wysyłania zapytania pod
         zamówienie specjalne, formularz kontaktowy,
       </p>
-      <p class="text-center">
+      <p class="text-center mx-4">
         stronę koszyka, panel klienta wraz z zamówieniami, danymi użytkownika, danymi do faktury,
         czy adresami wysyłki.
       </p>
-      <p class="text-center">Kod zawiera również templatki mailingowe po złożonym zamówieniu.</p>
-      <p class="text-center">
+      <p class="text-center mx-4">
+        Kod zawiera również templatki mailingowe po złożonym zamówieniu.
+      </p>
+      <p class="text-center mx-4">
         Poniżej przykładowe szablony projektu. Cały projekt znajduje się na
         <a
           href="https://github.com/goldipl/SPARK_PROMOTIONS"

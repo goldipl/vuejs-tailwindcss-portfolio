@@ -1,6 +1,6 @@
 <template>
   <div class="flex items-center justify-center flex-col mt-4">
-    <p class="text-center">05.2021 - obecnie</p>
+    <p class="text-center mx-4">05.2021 - obecnie</p>
     <strong
       class="my-0.5 text-lg text-center bg-gradient-to-r from-purple-600 from-15% to-white bg-clip-text text-transparent font-semibold"
       >Web Developer / Webmaster</strong
@@ -279,7 +279,7 @@
       </div>
     </div>
   </div>
-  <p class="text-center">02.2021 - 04.2021</p>
+  <p class="text-center mx-4">02.2021 - 04.2021</p>
   <strong
     class="my-0.5 text-lg text-center bg-gradient-to-r from-purple-600 from-15% to-white bg-clip-text text-transparent font-semibold"
     >Web Developer</strong

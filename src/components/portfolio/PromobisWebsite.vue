@@ -1,24 +1,24 @@
 <template>
-  <section class="my-20">
+  <section class="my-12 md:my-20">
     <div class="projects-container mb-24">
-      <h2 class="text-4xl mb-4 text-center">
+      <h2 class="text-3xl md:text-4xl mb-4 text-center">
         Projekt sklepu internetowego <span class="text-blue-800">PROMO</span
         ><span class="text-lime-500 font-bold">bis</span
         ><span class="text-blue-800 text-lg">.pl</span>
       </h2>
-      <p class="text-center">
+      <p class="text-center mx-4">
         Część frontowa projektu została zakodowana na podstawie gotowego projektu graficznego w
         <strong>Figmie</strong>.
       </p>
-      <p class="text-center">
+      <p class="text-center mx-4">
         Zawiera stronę główną, stronę kategorii, stronę produktu, stronę kontaktu, stronę konta
         użytkownika wraz z kompletem ustawień oraz stronę koszyka.
       </p>
-      <p class="text-center">
+      <p class="text-center mx-4">
         W projekcie zostały użyte technologie takie jak:
         <strong>HTML5, SCSS, Vanilla JavaScript</strong>.
       </p>
-      <p class="text-center">
+      <p class="text-center mx-4">
         Rotatory w projekcie korzystają z biblioteki <strong>Swiper.js</strong>.
       </p>
       <div class="wide-wrapper flex flex-wrap justify-center items-center gap-4 my-6">

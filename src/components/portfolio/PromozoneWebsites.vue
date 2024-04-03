@@ -1,12 +1,14 @@
 <template>
-  <section class="my-20">
+  <section class="my-12 md:my-20">
     <div class="projects-container mb-24">
-      <h2 class="text-4xl mb-4 text-center">Projekty sklepów internetowych Promozone</h2>
-      <p class="text-center">
+      <h2 class="text-3xl md:text-4xl mb-4 text-center">
+        Projekty sklepów internetowych Promozone
+      </h2>
+      <p class="text-center mx-4">
         Wprowadzenie poprawek i dopracowanie projektu Frontu sklepów internetowych na prośbę
         Klienta.
       </p>
-      <p class="text-center">
+      <p class="text-center mx-4">
         Projekt sklepów bazuje na technologiach
         <strong>HTML5, CSS3, SCSS, Vanilla JavaScript, PHP</strong>.
       </p>

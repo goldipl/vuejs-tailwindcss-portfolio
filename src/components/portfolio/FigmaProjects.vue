@@ -1,10 +1,10 @@
 <template>
   <section class="mt-20">
     <div class="projects-container figma-projects pt-24 pb-24">
-      <h2 class="text-4xl mb-4 text-center">
+      <h2 class="text-3xl md:text-4xl mb-4 text-center">
         Makiety aplikacji w <span class="text-purple-600">Figma</span>
       </h2>
-      <p class="text-center">
+      <p class="text-center mx-4">
         Projekty aplikacji w jednym z najpopularniejszych narzędzi UX/UI Designera.
       </p>
       <div class="wide-wrapper flex flex-wrap justify-center items-center gap-4 my-6">
