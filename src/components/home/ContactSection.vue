@@ -15,7 +15,7 @@ export default defineComponent({
     id="contact-section"
     class="wrapper flex flex-col items-center justify-center my-12 md:my-20 md:my-24"
   >
-    <h1 class="text-center text-4xl mb-6">Kontakt</h1>
+    <h1 class="text-center text-3xl md:text-4xl mb-6">Kontakt</h1>
     <p>Podobają Ci się moje prace?</p>
     <p>Zapraszam do kontaktu, zróbmy coś razem!</p>
     <ContactButton />

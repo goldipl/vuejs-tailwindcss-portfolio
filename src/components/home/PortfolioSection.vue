@@ -13,7 +13,7 @@ export default defineComponent({
 <template>
   <section id="portfolio-section" class="pt-16 pb-24 md:pt-16 md:pt-40 md:pb-64">
     <div class="wrapper">
-      <h1 class="text-center text-4xl mb-6">Portfolio</h1>
+      <h1 class="text-center text-3xl md:text-4xl mb-6">Portfolio</h1>
       <p class="text-center mx-4">Zapraszam do zapoznania się z moim portfolio</p>
       <p class="text-center mx-4">
         Znajdziecie w nim wszystkie wykonane dotychczas projekty, a także aktualne projekty.
