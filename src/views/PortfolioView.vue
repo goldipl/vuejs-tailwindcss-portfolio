@@ -6,6 +6,7 @@ import ModernWebsitesProjects from '../components/portfolio/ModernWebsitesProjec
 import PromobisWebsite from '../components/portfolio/PromobisWebsite.vue'
 import DreamtexWebsite from '../components/portfolio/DreamtexWebsite.vue'
 import PromozoneWebsites from '../components/portfolio/PromozoneWebsites.vue'
+import PromotecaWebsite from '../components/portfolio/PromotecaWebsite.vue'
 </script>
 
 <template>
@@ -16,6 +17,7 @@ import PromozoneWebsites from '../components/portfolio/PromozoneWebsites.vue'
   <PromobisWebsite />
   <DreamtexWebsite />
   <PromozoneWebsites />
+  <PromotecaWebsite />
 </template>
 
 <style scoped></style>
