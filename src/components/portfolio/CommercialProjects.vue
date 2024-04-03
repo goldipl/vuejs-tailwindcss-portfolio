@@ -5,14 +5,14 @@
       Wybrane projekty stron AWD realizowane w ramach pracy jako Web Developer w Grupie ZPR Media
       S.A.
     </p>
-    <div class="flex flex-wrap justify-center items-center gap-5 my-6">
+    <div class="wide-wrapper flex flex-wrap justify-center items-center gap-4 my-6">
       <!-- Project -->
       <div class="relative border border-1 border-purple-600">
         <img
           src="./../../assets/img/portfolio/commercial_zpr/CommercialWebsite01.jpg"
           alt="se.pl"
-          width="460"
-          height="230"
+          width="410"
+          height="205"
           class="h-auto"
         />
         <div
@@ -31,8 +31,8 @@
         <img
           src="./../../assets/img/portfolio/commercial_zpr/CommercialWebsite02.jpg"
           alt="poradnikzdrowie.pl"
-          width="460"
-          height="230"
+          width="410"
+          height="205"
           class="h-auto"
         />
         <div
@@ -51,8 +51,8 @@
         <img
           src="./../../assets/img/portfolio/commercial_zpr/CommercialWebsite03.jpg"
           alt="beszamel.se.pl"
-          width="460"
-          height="230"
+          width="410"
+          height="205"
           class="h-auto"
         />
         <div
@@ -71,8 +71,8 @@
         <img
           src="./../../assets/img/portfolio/commercial_zpr/CommercialWebsite04.jpg"
           alt="mediateka.pl"
-          width="460"
-          height="230"
+          width="410"
+          height="205"
           class="h-auto"
         />
         <div
@@ -91,8 +91,8 @@
         <img
           src="./../../assets/img/portfolio/commercial_zpr/CommercialWebsite05.jpg"
           alt="eska.pl"
-          width="460"
-          height="230"
+          width="410"
+          height="205"
           class="h-auto"
         />
         <div
@@ -111,8 +111,8 @@
         <img
           src="./../../assets/img/portfolio/commercial_zpr/CommercialWebsite06.jpg"
           alt="muratordom.pl"
-          width="460"
-          height="230"
+          width="410"
+          height="205"
           class="h-auto"
         />
         <div
@@ -131,8 +131,8 @@
         <img
           src="./../../assets/img/portfolio/commercial_zpr/CommercialWebsite07.jpg"
           alt="vivelo.pl"
-          width="460"
-          height="230"
+          width="410"
+          height="205"
           class="h-auto"
         />
         <div
@@ -151,8 +151,8 @@
         <img
           src="./../../assets/img/portfolio/commercial_zpr/CommercialWebsite08.jpg"
           alt="eskarock.pl"
-          width="460"
-          height="230"
+          width="410"
+          height="205"
           class="h-auto"
         />
         <div
@@ -171,8 +171,8 @@
         <img
           src="./../../assets/img/portfolio/commercial_zpr/CommercialWebsite09.jpg"
           alt="urzadzamy.pl"
-          width="460"
-          height="230"
+          width="410"
+          height="205"
           class="h-auto"
         />
         <div
