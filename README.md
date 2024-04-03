@@ -5,6 +5,9 @@
 <h1 align="center">Vue.js Tailwind CSS - brand new portfolio</h1>
 
 <p align="center">My brand new portfolio written using modern front-end technologies like Vue.js, TypeScript, Tailwind CSS.</p>
+<p align="center">On this site you can find information about my skills, experience and completed projects.</p>
+<p align="center">There are sections containing detailed information about my technologies and tools that I use during my work, information about my experience and education.</p>
+<p align="center">In addition, you will find a tab with my references from satisfied clients.</p>
 
 ## Technologies
 
