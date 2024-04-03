@@ -1,6 +1,6 @@
 <template>
   <section class="my-20">
-    <div class="projects-container modern-websites pt-24 pb-40 mb-24">
+    <div class="projects-container modern-websites pt-24 pb-56 mb-24">
       <h2 class="text-4xl mb-4 text-center">
         Projekty stron w React.js <span class="text-purple-600">|</span> Next.js
         <span class="text-purple-600">|</span> Vue.js

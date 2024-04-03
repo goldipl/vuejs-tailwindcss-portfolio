@@ -351,7 +351,7 @@
       </div>
     </div>
     <!-- Projekty Muratora -->
-    <div class="projects-container murator-projekty pt-24 pb-40 mb-24">
+    <div class="projects-container murator-projekty pt-24 pb-56 mb-24">
       <h2 class="text-4xl mb-4 text-center">
         Projekt komercyjny <strong>murator</strong
         ><span class="text-orange-400 font-thin">projekty</span>
