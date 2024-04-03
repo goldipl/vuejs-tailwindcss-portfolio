@@ -16,7 +16,7 @@
           >
             <a
               class="uppercase font-semibold text-white text-sm hover:text-black"
-              href="https://goldipl.github.io/vuejs-tailwindcss-portfolio/assets/img/references/reference01.jpg"
+              href="https://raw.githubusercontent.com/goldipl/vuejs-tailwindcss-portfolio/master/src/assets/img/references/reference01.jpg"
               target="_blank"
               >powiększ</a
             >
@@ -36,7 +36,7 @@
           >
             <a
               class="uppercase font-semibold text-white text-sm hover:text-black"
-              href="https://goldipl.github.io/vuejs-tailwindcss-portfolio/assets/img/references/reference02.jpg"
+              href="https://raw.githubusercontent.com/goldipl/vuejs-tailwindcss-portfolio/master/src/assets/img/references/reference02.jpg"
               target="_blank"
               >powiększ</a
             >
@@ -56,7 +56,7 @@
           >
             <a
               class="uppercase font-semibold text-white text-sm hover:text-black"
-              href="https://goldipl.github.io/vuejs-tailwindcss-portfolio/assets/img/references/reference03.jpg"
+              href="https://raw.githubusercontent.com/goldipl/vuejs-tailwindcss-portfolio/master/src/assets/img/references/reference03.jpg"
               target="_blank"
               >powiększ</a
             >
@@ -76,7 +76,7 @@
           >
             <a
               class="uppercase font-semibold text-white text-sm hover:text-black"
-              href="https://goldipl.github.io/vuejs-tailwindcss-portfolio/assets/img/references/reference04.jpg"
+              href="https://raw.githubusercontent.com/goldipl/vuejs-tailwindcss-portfolio/master/src/assets/img/references/reference04.jpg"
               target="_blank"
               >powiększ</a
             >
