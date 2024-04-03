@@ -10,6 +10,7 @@ import PromozoneWebsites from '../components/portfolio/PromozoneWebsites.vue'
 import PromotecaWebsite from '../components/portfolio/PromotecaWebsite.vue'
 import SparkPromotionsWebsite from '../components/portfolio/SparkPromotionsWebsite.vue'
 import MacmaWebsite from '../components/portfolio/MacmaWebsite.vue'
+import JavaScriptProjects from '../components/portfolio/JavaScriptProjects.vue'
 </script>
 
 <template>
@@ -24,6 +25,7 @@ import MacmaWebsite from '../components/portfolio/MacmaWebsite.vue'
   <PromotecaWebsite />
   <SparkPromotionsWebsite />
   <MacmaWebsite />
+  <JavaScriptProjects />
 </template>
 
 <style scoped></style>
