@@ -4,6 +4,7 @@ import CommercialProjects from '../components/portfolio/CommercialProjects.vue'
 import StaticWebsitesProjects from '../components/portfolio/StaticWebsitesProjects.vue'
 import ModernWebsitesProjects from '../components/portfolio/ModernWebsitesProjects.vue'
 import PromobisWebsite from '../components/portfolio/PromobisWebsite.vue'
+import DreamtexWebsite from '../components/portfolio/DreamtexWebsite.vue'
 </script>
 
 <template>
@@ -12,6 +13,7 @@ import PromobisWebsite from '../components/portfolio/PromobisWebsite.vue'
   <StaticWebsitesProjects />
   <ModernWebsitesProjects />
   <PromobisWebsite />
+  <DreamtexWebsite />
 </template>
 
 <style scoped></style>
