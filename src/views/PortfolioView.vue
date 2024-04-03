@@ -12,6 +12,7 @@ import SparkPromotionsWebsite from '../components/portfolio/SparkPromotionsWebsi
 import MacmaWebsite from '../components/portfolio/MacmaWebsite.vue'
 import JavaScriptProjects from '../components/portfolio/JavaScriptProjects.vue'
 import JavaProjects from '../components/portfolio/JavaProjects.vue'
+import CssProjects from '../components/portfolio/CssProjects.vue'
 </script>
 
 <template>
@@ -28,6 +29,7 @@ import JavaProjects from '../components/portfolio/JavaProjects.vue'
   <MacmaWebsite />
   <JavaScriptProjects />
   <JavaProjects />
+  <CssProjects />
 </template>
 
 <style scoped></style>
