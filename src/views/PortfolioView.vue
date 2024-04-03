@@ -13,6 +13,7 @@ import MacmaWebsite from '../components/portfolio/MacmaWebsite.vue'
 import JavaScriptProjects from '../components/portfolio/JavaScriptProjects.vue'
 import JavaProjects from '../components/portfolio/JavaProjects.vue'
 import CssProjects from '../components/portfolio/CssProjects.vue'
+import FigmaProjects from '../components/portfolio/FigmaProjects.vue'
 </script>
 
 <template>
@@ -30,6 +31,7 @@ import CssProjects from '../components/portfolio/CssProjects.vue'
   <JavaScriptProjects />
   <JavaProjects />
   <CssProjects />
+  <FigmaProjects />
 </template>
 
 <style scoped></style>
