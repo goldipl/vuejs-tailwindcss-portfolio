@@ -118,6 +118,32 @@
             >
           </div>
         </div>
+        <!-- Project -->
+        <div class="relative border border-1 border-purple-600">
+          <img
+            src="./../../assets/img/portfolio/modern_websites/modern_website_05.jpg"
+            alt="Self-storage-website"
+            width="410"
+            height="205"
+            class="h-auto"
+          />
+          <div
+            class="absolute left-0 bottom-0 bg-gradient-to-r from-purple-600 from-45% to-black w-48 p-2 flex justify-around items-center"
+          >
+            <a
+              class="uppercase font-semibold text-white text-sm hover:text-black"
+              href="https://goldipl.github.io/vuejs-tailwindcss-portfolio/"
+              target="_blank"
+              >live</a
+            >
+            <a
+              class="uppercase font-semibold text-white text-sm hover:text-black"
+              href="https://github.com/goldipl/vuejs-tailwindcss-portfolio"
+              target="_blank"
+              >code</a
+            >
+          </div>
+        </div>
       </div>
       <div class="white-shape">
         <svg
