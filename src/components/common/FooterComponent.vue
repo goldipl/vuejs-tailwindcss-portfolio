@@ -6,7 +6,7 @@
       class="relative mx-auto max-w-[1200px] bg-gradient-to-t from-purple-600 from-15% to-black flex flex-col md:flex-row justify-between items-center h-auto md:h-16"
     >
       <p class="text-white mt-4 md:mt-0">Marcin Godlewski, Front-end Developer &copy; 2024</p>
-      <nav class="flex flex-col md:flex-row justify-end items-center w-3/5">
+      <nav class="flex flex-col md:flex-row justify-end items-center md:items-end w-3/5">
         <a
           class="flex text-gray-300 text-sm hover:text-white m-2 md:m-4"
           href="https://github.com/goldipl"
@@ -19,7 +19,7 @@
           target="_blank"
           >LinkedIn</a
         >
-        <span class="inline-flex w-full text-gray-300 text-sm m-2 md:m-4"
+        <span class="inline-flex w-full md:w-auto text-gray-300 text-sm m-2 md:m-4"
           >E-mail:
           <a
             class="flex ms-2 text-gray-300 text-sm hover:text-white"
