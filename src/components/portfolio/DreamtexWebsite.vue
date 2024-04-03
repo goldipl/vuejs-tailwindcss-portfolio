@@ -3,7 +3,7 @@
     <div class="projects-container modern-websites pt-24 pb-56 mb-24">
       <h2 class="text-4xl mb-4 text-center">
         Projekt sklepu internetowego <span class="uppercase text-blue-800">Dream</span
-        ><span class="uppercase text-blue-300">tex</span>
+        ><span class="uppercase text-blue-300">tex</span><span class="text-lg">.pl</span>
       </h2>
       <p class="text-center">
         Front projektu został zakodowany na podstawie gotowego projektu graficznego w
