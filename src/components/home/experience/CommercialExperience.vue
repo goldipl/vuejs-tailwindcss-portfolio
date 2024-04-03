@@ -6,16 +6,16 @@
       >Web Developer / Webmaster</strong
     >
     <p class="text-center mb-8">Grupa ZPR Media S.A.</p>
-    <p>Zrealizowane projekty w ramach pracy w zakresie Front-endu:</p>
+    <p class="text-center mx-4">Zrealizowane projekty w ramach pracy w zakresie Front-endu:</p>
   </div>
-  <div class="mt-3 mb-6 max-w-[840px]">
+  <div class="mt-3 mb-6 md:max-w-[840px]">
     <!-- Project -->
     <div
-      class="flex items-center justify-start border border-1 rounded-sm border-gray-400 p-4 min-w-96 mb-3"
+      class="flex flex-col md:flex-row md:items-center justify-start border border-1 rounded-sm border-gray-400 p-4 md:min-w-96 mx-3 mb-3"
       data-aos="fade-left"
       data-aos-duration="1000"
     >
-      <div class="flex me-16 min-w-[180px]">
+      <div class="flex mb-3 md:mb-0 md:me-16 md:min-w-[180px]">
         <a
           href="https://projekty.muratordom.pl/"
           class="underline text-sm decoration-purple-600 hover:no-underline"
@@ -58,11 +58,11 @@
     </div>
     <!-- Project -->
     <div
-      class="flex items-center justify-start border border-1 rounded-sm border-gray-400 p-4 min-w-96 mb-3"
+      class="flex flex-col md:flex-row md:items-center justify-start border border-1 rounded-sm border-gray-400 p-4 md:min-w-96 mx-3 mb-3"
       data-aos="fade-left"
       data-aos-duration="1000"
     >
-      <div class="flex me-16 min-w-[180px]">
+      <div class="flex mb-3 md:mb-0 md:me-16 md:min-w-[180px]">
         <a
           href="https://www.voxfm.pl/"
           class="underline text-sm decoration-purple-600 hover:no-underline"
@@ -95,11 +95,11 @@
     </div>
     <!-- Project -->
     <div
-      class="flex items-center justify-start border border-1 rounded-sm border-gray-400 p-4 min-w-96 mb-3"
+      class="flex flex-col md:flex-row md:items-center justify-start border border-1 rounded-sm border-gray-400 p-4 md:min-w-96 mx-3 mb-3"
       data-aos="fade-left"
       data-aos-duration="1000"
     >
-      <div class="flex me-16 min-w-[180px]">
+      <div class="flex mb-3 md:mb-0 md:me-16 md:min-w-[180px]">
         <a
           href="https://www.vibefm.pl/"
           class="underline text-sm decoration-purple-600 hover:no-underline"
@@ -132,11 +132,11 @@
     </div>
     <!-- Project -->
     <div
-      class="flex items-center justify-start border border-1 rounded-sm border-gray-400 p-4 min-w-96 mb-3"
+      class="flex flex-col md:flex-row md:items-center justify-start border border-1 rounded-sm border-gray-400 p-4 md:min-w-96 mx-3 mb-3"
       data-aos="fade-left"
       data-aos-duration="1000"
     >
-      <div class="flex me-16 min-w-[180px]">
+      <div class="flex mb-3 md:mb-0 md:me-16 md:min-w-[180px]">
         <a
           href="https://www.eska.pl/"
           class="underline text-sm decoration-purple-600 hover:no-underline"
@@ -169,11 +169,11 @@
     </div>
     <!-- Project -->
     <div
-      class="flex items-center justify-start border border-1 rounded-sm border-gray-400 p-4 min-w-96 mb-3"
+      class="flex flex-col md:flex-row md:items-center justify-start border border-1 rounded-sm border-gray-400 p-4 md:min-w-96 mx-3 mb-3"
       data-aos="fade-left"
       data-aos-duration="1000"
     >
-      <div class="flex me-16 min-w-[180px]">
+      <div class="flex mb-3 md:mb-0 md:me-16 md:min-w-[180px]">
         <a
           href="https://dwa.eska.pl/"
           class="underline text-sm decoration-purple-600 hover:no-underline"
@@ -206,11 +206,11 @@
     </div>
     <!-- Project -->
     <div
-      class="flex items-center justify-start border border-1 rounded-sm border-gray-400 p-4 min-w-96 mb-3"
+      class="flex flex-col md:flex-row md:items-center justify-start border border-1 rounded-sm border-gray-400 p-4 md:min-w-96 mx-3 mb-3"
       data-aos="fade-left"
       data-aos-duration="1000"
     >
-      <div class="flex me-16 min-w-[180px]">
+      <div class="flex mb-3 md:mb-0 md:me-16 md:min-w-[180px]">
         <a
           href="https://www.se.pl/"
           class="underline text-sm decoration-purple-600 hover:no-underline"
@@ -243,11 +243,11 @@
     </div>
     <!-- Project -->
     <div
-      class="flex items-center justify-start border border-1 rounded-sm border-gray-400 p-4 min-w-96 mb-3"
+      class="flex flex-col md:flex-row md:items-center justify-start border border-1 rounded-sm border-gray-400 p-4 md:min-w-96 mx-3 mb-3"
       data-aos="fade-left"
       data-aos-duration="1000"
     >
-      <div class="flex me-16 min-w-[180px]">
+      <div class="flex mb-3 md:mb-0 md:me-16 md:min-w-[180px]">
         <p class="text-sm">CMS</p>
       </div>
       <div class="flex flex-wrap">
@@ -285,15 +285,15 @@
     >Web Developer</strong
   >
   <p class="text-center mb-8">Grupa ZPR Media S.A.</p>
-  <p>Zrealizowane projekty w ramach pracy w zakresie Front-endu:</p>
-  <div class="mt-3 mb-6 max-w-[840px]">
+  <p class="text-center mx-4">Zrealizowane projekty w ramach pracy w zakresie Front-endu:</p>
+  <div class="mt-3 mb-6 w-full md:max-w-[840px]">
     <!-- Project -->
     <div
-      class="flex items-center justify-start border border-1 rounded-sm border-gray-400 p-4 min-w-96 mb-3"
+      class="flex flex-col md:flex-row md:items-center justify-start border border-1 rounded-sm border-gray-400 p-4 md:min-w-96 mx-3 mb-3"
       data-aos="fade-left"
       data-aos-duration="1000"
     >
-      <div class="flex me-16 min-w-[180px]">
+      <div class="flex mb-3 md:mb-0 md:me-16 md:min-w-[180px]">
         <a
           href="https://beszamel.se.pl/"
           class="underline text-sm decoration-purple-600 hover:no-underline"

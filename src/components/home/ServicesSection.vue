@@ -1,9 +1,9 @@
 <template>
-  <section id="services-section" class="pt-40 pb-64">
+  <section id="services-section" class="pt-16 pb-24 md:pt-16 md:pt-40 md:pb-64">
     <div class="wrapper">
       <h2 class="text-center text-4xl mb-8">Usługi</h2>
       <h3 class="text-center mb-5">Oferowane przeze mnie usługi zapewniają:</h3>
-      <div class="flex flex-row items-start justify-center">
+      <div class="flex flex-col md:flex-row items-center md:items-start justify-center">
         <div
           class="flex flex-col items-center justify-center max-w-[300px] px-16 m-4 border border-1 rounded-xl border-gray-400 min-h-80 hover:border-purple-600 transition-all duration-500"
           data-aos="fade-down"

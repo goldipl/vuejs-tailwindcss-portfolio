@@ -1,6 +1,6 @@
 <template>
   <section id="contact-map-section">
-    <div class="wrapper my-24">
+    <div class="wrapper my-20 md:my-24">
       <h2 class="text-2xl my-2 text-left">Kontakt mailowy:</h2>
       <p class="text-left text-lg">
         E-mail:

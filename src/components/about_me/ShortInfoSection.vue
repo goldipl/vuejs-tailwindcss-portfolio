@@ -1,5 +1,5 @@
 <template>
-  <section id="about-me-section" class="wrapper flex flex-col items-start my-24">
+  <section id="about-me-section" class="wrapper flex flex-col items-start my-20 md:my-24">
     <div class="flex flex-col justify-center items-center w-full">
       <div class="img-animation w-64 mb-4">
         <img

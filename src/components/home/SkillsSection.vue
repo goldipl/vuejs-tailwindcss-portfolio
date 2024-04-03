@@ -1,5 +1,5 @@
 <template>
-  <section id="skills-section" class="pt-40">
+  <section id="skills-section" class="pt-16 md:pt-40">
     <h1 class="text-center text-4xl">Umiejętności</h1>
     <div
       class="flex items-center justify-center my-12 flex-wrap max-w-[1080px] mx-auto"

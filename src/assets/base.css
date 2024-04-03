@@ -34,3 +34,9 @@ body {
   background-image: linear-gradient(to top, #9333ea -125%, #000000 95%);
   box-shadow: inset 2px 2px 5px 0 rgba(#fff, 0.5);
 }
+
+@media (max-width: 767px) {
+  body {
+    margin-bottom: 64px !important;
+  }
+}

@@ -3,26 +3,26 @@
     class="relative w-full m-auto before:content-[''] before:block before:bg-gradient-to-t from-purple-600 from-15% to-black before:top-0 before:left-0 before:absolute before:h-16 before:w-full"
   >
     <div
-      class="relative mx-auto max-w-[1200px] bg-gradient-to-t from-purple-600 from-15% to-black flex justify-between items-center h-16"
+      class="relative mx-auto max-w-[1200px] bg-gradient-to-t from-purple-600 from-15% to-black flex flex-col md:flex-row justify-between items-center h-auto md:h-16"
     >
-      <p class="text-white">Marcin Godlewski, Front-end Developer &copy; 2024</p>
-      <nav class="flex justify-end items-center w-3/5">
+      <p class="text-white mt-4 md:mt-0">Marcin Godlewski, Front-end Developer &copy; 2024</p>
+      <nav class="flex flex-col md:flex-row justify-end items-center w-3/5">
         <a
-          class="text-gray-300 text-sm hover:text-white m-4"
+          class="flex text-gray-300 text-sm hover:text-white m-2 md:m-4"
           href="https://github.com/goldipl"
           target="_blank"
           >GitHub</a
         >
         <a
-          class="text-gray-300 text-sm hover:text-white m-4"
+          class="flex text-gray-300 text-sm hover:text-white m-2 md:m-4"
           href="https://www.linkedin.com/in/marcin-godlewski-153897139/"
           target="_blank"
           >LinkedIn</a
         >
-        <span class="text-gray-300 text-sm m-4"
+        <span class="inline-flex w-full text-gray-300 text-sm m-2 md:m-4"
           >E-mail:
           <a
-            class="text-gray-300 text-sm hover:text-white"
+            class="flex ms-2 text-gray-300 text-sm hover:text-white"
             href="mailto:mgodlewski92@gmail.com"
             target="_blank"
             >mgodlewski92@gmail.com</a

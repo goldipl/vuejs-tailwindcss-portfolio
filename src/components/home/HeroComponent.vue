@@ -15,9 +15,9 @@ export default AOSInitializer
 
 <template>
   <div class="hero-container w-full mt-[-1rem]">
-    <div class="relative z-10 flex top-[10vh] justify-center items-center">
+    <div class="relative z-10 flex top-[18vh] md:top-[10vh] justify-center items-center">
       <div
-        class="flex flex-col max-w-[640px] 2xl:me-24"
+        class="flex flex-col ms-6 md:ms-0 max-w-[640px] 2xl:me-24"
         data-aos="fade-right"
         data-aos-duration="2000"
       >
@@ -45,7 +45,7 @@ export default AOSInitializer
           >
         </div>
       </div>
-      <div class="flex" data-aos="fade-left" data-aos-duration="2000">
+      <div class="hidden md:flex" data-aos="fade-left" data-aos-duration="2000">
         <img src="./../../assets/img/hero/frontend-icons.svg" alt="Frontend Icons" />
       </div>
     </div>
