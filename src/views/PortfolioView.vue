@@ -3,6 +3,7 @@ import ShortHeroComponent from '../components/portfolio/ShortHeroComponent.vue'
 import CommercialProjects from '../components/portfolio/CommercialProjects.vue'
 import StaticWebsitesProjects from '../components/portfolio/StaticWebsitesProjects.vue'
 import ModernWebsitesProjects from '../components/portfolio/ModernWebsitesProjects.vue'
+import PromobisWebsite from '../components/portfolio/PromobisWebsite.vue'
 </script>
 
 <template>
@@ -10,6 +11,7 @@ import ModernWebsitesProjects from '../components/portfolio/ModernWebsitesProjec
   <CommercialProjects />
   <StaticWebsitesProjects />
   <ModernWebsitesProjects />
+  <PromobisWebsite />
 </template>
 
 <style scoped></style>
