@@ -11,6 +11,7 @@ import PromotecaWebsite from '../components/portfolio/PromotecaWebsite.vue'
 import SparkPromotionsWebsite from '../components/portfolio/SparkPromotionsWebsite.vue'
 import MacmaWebsite from '../components/portfolio/MacmaWebsite.vue'
 import JavaScriptProjects from '../components/portfolio/JavaScriptProjects.vue'
+import JavaProjects from '../components/portfolio/JavaProjects.vue'
 </script>
 
 <template>
@@ -26,6 +27,7 @@ import JavaScriptProjects from '../components/portfolio/JavaScriptProjects.vue'
   <SparkPromotionsWebsite />
   <MacmaWebsite />
   <JavaScriptProjects />
+  <JavaProjects />
 </template>
 
 <style scoped></style>
