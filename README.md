@@ -71,3 +71,7 @@ TypeScript cannot handle type information for `.vue` imports by default, so we r
 ### Customize configuration
 
 See [Vite Configuration Reference](https://vitejs.dev/config/).
+
+## Screenshots
+
+![Screenshot](./src/assets/img/portfolio/modern_websites/modern_website_05.jpg)
