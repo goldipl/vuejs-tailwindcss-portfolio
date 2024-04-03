@@ -9,6 +9,7 @@ import DreamtexWebsite from '../components/portfolio/DreamtexWebsite.vue'
 import PromozoneWebsites from '../components/portfolio/PromozoneWebsites.vue'
 import PromotecaWebsite from '../components/portfolio/PromotecaWebsite.vue'
 import SparkPromotionsWebsite from '../components/portfolio/SparkPromotionsWebsite.vue'
+import MacmaWebsite from '../components/portfolio/MacmaWebsite.vue'
 </script>
 
 <template>
@@ -22,6 +23,7 @@ import SparkPromotionsWebsite from '../components/portfolio/SparkPromotionsWebsi
   <PromozoneWebsites />
   <PromotecaWebsite />
   <SparkPromotionsWebsite />
+  <MacmaWebsite />
 </template>
 
 <style scoped></style>
