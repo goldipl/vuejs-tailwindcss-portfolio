@@ -9,3 +9,8 @@
   margin: 0 auto;
   max-width: 1200px;
 }
+
+.wide-wrapper {
+  margin: 0 auto;
+  max-width: 1280px;
+}
