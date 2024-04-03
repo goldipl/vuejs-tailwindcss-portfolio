@@ -1,5 +1,5 @@
 <script lang="ts">
-import type { ComponentOptions } from 'vue'
+import { ComponentOptions } from 'vue'
 import AOS from 'aos'
 import 'aos/dist/aos.css'
 
@@ -7,6 +7,16 @@ const AOSInitializer: ComponentOptions = {
   mounted() {
     // Initialize AOS when the component is mounted
     AOS.init()
+  },
+  methods: {
+    scrollToAboutMe() {
+      // Get the target element by its id
+      const aboutMeSection = document.getElementById('about-me-section')
+      if (aboutMeSection) {
+        // Scroll to the element smoothly
+        aboutMeSection.scrollIntoView({ behavior: 'smooth' })
+      }
+    }
   }
 }
 
@@ -33,10 +43,10 @@ export default AOSInitializer
           internetowych, landing page, serwisów e-commerce.
         </p>
         <div class="my-7">
-          <a
-            class="text-gray-300 text-sm hover:text-white px-4 py-3 me-4 border hover:border-purple-600 transition-all duration-500"
-            href="#about-me-section"
-            >Dowiedz się więcej</a
+          <span
+            class="text-gray-300 text-sm hover:text-white px-4 py-3 me-4 border cursor-pointer hover:border-purple-600 transition-all duration-500"
+            @click="scrollToAboutMe"
+            >Dowiedz się więcej</span
           >
           <RouterLink
             class="text-gray-300 text-sm hover:text-white px-4 py-3 border hover:border-purple-600 transition-all duration-500"
