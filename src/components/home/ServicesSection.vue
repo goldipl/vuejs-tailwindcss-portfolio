@@ -1,7 +1,7 @@
 <template>
   <section id="services-section" class="pt-16 pb-24 md:pt-16 md:pt-40 md:pb-64">
     <div class="wrapper">
-      <h2 class="text-center text-4xl mb-8">Usługi</h2>
+      <h2 class="text-center text-3xl md:text-4xl mb-8">Usługi</h2>
       <h3 class="text-center mb-5">Oferowane przeze mnie usługi zapewniają:</h3>
       <div class="flex flex-col md:flex-row items-center md:items-start justify-center">
         <div
