@@ -1,7 +1,7 @@
 <template>
   <section id="short-experience-section" class="pt-24 pb-32 md:pt-36 md:pb-48">
     <div class="wrapper">
-      <h1 class="text-3xl text-center mx-4 md:text-4xl mb-10">Doświadczenie "w pigułce"</h1>
+      <h1 class="text-3xl text-center mx-4 md:text-4xl mb-10">Doświadczenie</h1>
       <div class="my-6">
         <p class="text-center mx-4">06.2023 - obecnie</p>
         <p
@@ -10,7 +10,23 @@
           Front-end Developer
         </p>
         <p class="text-center mx-4">Freelancer</p>
+        <div class="mx-4 my-8">
+          <u class="text-md"> Zakres obowiazków: </u>
+          <p class="text-sm">
+            <span class="text-purple-600 text-xl">✔</span> Tworzenie stron internetowych opartych
+            na projektach graficznych w programach Figma i Adobe XD
+          </p>
+          <p class="text-sm">
+            <span class="text-purple-600 text-xl">✔</span> Tworzenie stron internetowych przy
+            użyciu technologii frontendowych takich jak Vanilla JavaScript, SCSS, Swiper.js,
+            Lightbox.js, Bootstrap, React.js, Next.js, Vue.js, TailwindCSS, styled-components
+          </p>
+          <p class="text-sm">
+            <span class="text-purple-600 text-xl">✔</span> Tworzenie stron typu Landing Page
+          </p>
+        </div>
       </div>
+      <hr class="mx-4 md:mx-0 my-12" />
       <div class="my-6">
         <p class="text-center mx-4">05.2021 - obecnie</p>
         <p
@@ -19,7 +35,58 @@
           Web Developer / Webmaster
         </p>
         <p class="text-center mx-4">Grupa ZPR Media S.A.</p>
+        <div class="mx-4 my-8">
+          <u class="text-md"> Zakres obowiazków: </u>
+          <p class="text-sm">
+            <span class="text-purple-600 text-xl">✔</span> Tworzenie nowych funkcjonalności przy
+            użyciu CSS3, SCSS, HTML5, JavaScript, Bootstrap
+          </p>
+          <p class="text-sm">
+            <span class="text-purple-600 text-xl">✔</span> Opracowywanie nowej wersji front-endu
+            następujących stron internetowych: beszamel.se.pl, eska.pl, se.pl, voxfm.pl,
+            architektura.muratorplus.pl, miesiecznik.architektura.muratorplus.pl,
+            poradnikzdrowie.pl, eskarock.pl
+          </p>
+          <p class="text-sm">
+            <span class="text-purple-600 text-xl">✔</span> Rebranding radiosupernova.pl i kodowanie
+            front-endu nowej strony internetowej: eska2.pl
+          </p>
+          <p class="text-sm">
+            <span class="text-purple-600 text-xl">✔</span> Opracowywanie front-endu nowych usług
+            internetowych, takich jak: portalobronny.se.pl, targivivelo.pl, vibefm.pl, eska2.pl,
+            mediateka.pl
+          </p>
+          <p class="text-sm">
+            <span class="text-purple-600 text-xl">✔</span> Opracowywanie front-endu systemu
+            zarządzania treścią
+          </p>
+          <p class="text-sm">
+            <span class="text-purple-600 text-xl">✔</span> Opracowywanie dla wewnętrznych potrzeb
+            firmy
+          </p>
+          <p class="text-sm">
+            <span class="text-purple-600 text-xl">✔</span> Współpraca z zespołem odpowiedzialnym za
+            utrzymanie i rozwój największych stron internetowych grupy: eska.pl, se.pl, voxfm.pl,
+            muratordom.pl, mjakmama24.pl, poradnikzdrowie.pl i innych
+          </p>
+          <p class="text-sm">
+            <span class="text-purple-600 text-xl">✔</span> Utrzymywanie i rozwijanie front-endu
+            stron internetowych grupy
+          </p>
+          <p class="text-sm">
+            <span class="text-purple-600 text-xl">✔</span> Praca w metodologii Agile
+          </p>
+          <p class="text-sm">
+            <span class="text-purple-600 text-xl">✔</span> Tworzenie stron typu Landing Page dla
+            kampanii marketingowych
+          </p>
+          <p class="text-sm">
+            <span class="text-purple-600 text-xl">✔</span> Współpraca z deweloperami back-endu,
+            testerami jakości, specjalistami SEO, DevOps i projektantami UX/UI
+          </p>
+        </div>
       </div>
+      <hr class="mx-4 md:mx-0 my-12" />
       <div class="my-6">
         <p class="text-center mx-4">02.2021 - 04.2021</p>
         <p
@@ -28,6 +95,28 @@
           Web Developer
         </p>
         <p class="text-center mx-4">Grupa ZPR Media S.A.</p>
+        <div class="mx-4 my-8">
+          <u class="text-md"> Zakres obowiazków: </u>
+          <p class="text-sm">
+            <span class="text-purple-600 text-xl">✔</span> Rozwijanie dla wewnętrznych potrzeb
+            firmy
+          </p>
+          <p class="text-sm">
+            <span class="text-purple-600 text-xl">✔</span> Utrzymanie i rozwijanie front-endu stron
+            internetowych grupy
+          </p>
+          <p class="text-sm">
+            <span class="text-purple-600 text-xl">✔</span> Praca w metodologii Agile
+          </p>
+          <p class="text-sm">
+            <span class="text-purple-600 text-xl">✔</span> Tworzenie stron typu Landing Page dla
+            kampanii marketingowych
+          </p>
+          <p class="text-sm">
+            <span class="text-purple-600 text-xl">✔</span> Współpraca z deweloperami back-endu,
+            specjalistami ds. kontroli jakości, specjalistami SEO, DevOps i projektantami UX/UI
+          </p>
+        </div>
       </div>
     </div>
     <div class="white-shape">
