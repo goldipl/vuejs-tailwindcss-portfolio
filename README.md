@@ -22,6 +22,57 @@ Project created with:
 
 - Vite
 
+## Project structure
+
+```
+.
+└── vuejs-tailwindcss-portfolio/
+    ├── .vscode/
+    ├── dist/
+    ├── public/
+    │   └── favicon.ico
+    ├── src/
+    │   ├── assets/
+    │   │   ├── img/
+    │   │   ├── base.css
+    │   │   └── main.css
+    │   ├── components/
+    │   │   ├── __tests__/
+    │   │   ├── about_me/
+    │   │   ├── buttons/
+    │   │   ├── common/
+    │   │   ├── contact/
+    │   │   ├── home/
+    │   │   ├── portfolio/
+    │   │   └── references/
+    │   ├── router/
+    │   │   └── index.ts
+    │   ├── views/
+    │   │   ├── AboutView.vue
+    │   │   ├── ContactView.vue
+    │   │   ├── HomeView.vue
+    │   │   ├── PortfolioView.vue
+    │   │   └── ReferencesView.vue
+    │   ├── App.vue
+    │   ├── index.css
+    │   └── main.ts
+    ├── .eslintrc.cjs
+    ├── .gitignore
+    ├── README.md
+    ├── env.d.ts
+    ├── index.html
+    ├── package-lock.json
+    ├── package.json.gitignore
+    ├── postcss.config.js
+    ├── tailwind.config.js
+    ├── tsconfig.app.json
+    ├── tsconfig.json
+    ├── tsconfig.node.json
+    ├── tsconfig.vitest.json
+    ├── vite.config.ts
+    └── vitest.config.ts
+```
+
 ## Live link
 
 - https://goldipl.github.io/vuejs-tailwindcss-portfolio/
