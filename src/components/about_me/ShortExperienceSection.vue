@@ -18,8 +18,9 @@
           </p>
           <p class="text-sm">
             <span class="text-purple-600 text-xl">✔</span> Kodowanie stron internetowych przy
-            użyciu technologii frontendowych takich jak Vanilla JavaScript, SCSS, Swiper.js,
-            Lightbox.js, Bootstrap, React.js, Next.js, Vue.js, TailwindCSS, styled-components
+            użyciu technologii frontendowych takich jak Vanilla JavaScript, SCSS, Bootstrap,
+            React.js, Next.js, Vue.js, TailwindCSS, styled-components oraz bibliotek rotatora
+            Swiper.js i galerii Lightbox.js
           </p>
           <p class="text-sm">
             <span class="text-purple-600 text-xl">✔</span> Kodowanie stron typu Landing Page
