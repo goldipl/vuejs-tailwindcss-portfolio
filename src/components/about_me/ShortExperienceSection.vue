@@ -62,7 +62,7 @@
             treścią
           </p>
           <p class="text-sm">
-            <span class="text-purple-600 text-xl">✔</span> Kodowanie funckjonalności dla
+            <span class="text-purple-600 text-xl">✔</span> Kodowanie funkcjonalności dla
             wewnętrznych potrzeb firmy
           </p>
           <p class="text-sm">
