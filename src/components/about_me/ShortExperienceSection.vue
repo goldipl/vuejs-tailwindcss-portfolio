@@ -13,16 +13,16 @@
         <div class="mx-4 my-8">
           <u class="text-md"> Zakres obowiazków: </u>
           <p class="text-sm">
-            <span class="text-purple-600 text-xl">✔</span> Tworzenie stron internetowych opartych
+            <span class="text-purple-600 text-xl">✔</span> Kodowanie stron internetowych opartych
             na projektach graficznych w programach Figma i Adobe XD
           </p>
           <p class="text-sm">
-            <span class="text-purple-600 text-xl">✔</span> Tworzenie stron internetowych przy
+            <span class="text-purple-600 text-xl">✔</span> Kodowanie stron internetowych przy
             użyciu technologii frontendowych takich jak Vanilla JavaScript, SCSS, Swiper.js,
             Lightbox.js, Bootstrap, React.js, Next.js, Vue.js, TailwindCSS, styled-components
           </p>
           <p class="text-sm">
-            <span class="text-purple-600 text-xl">✔</span> Tworzenie stron typu Landing Page
+            <span class="text-purple-600 text-xl">✔</span> Kodowanie stron typu Landing Page
           </p>
         </div>
       </div>
@@ -38,11 +38,11 @@
         <div class="mx-4 my-8">
           <u class="text-md"> Zakres obowiazków: </u>
           <p class="text-sm">
-            <span class="text-purple-600 text-xl">✔</span> Tworzenie nowych funkcjonalności przy
+            <span class="text-purple-600 text-xl">✔</span> Kodowanie nowych funkcjonalności przy
             użyciu CSS3, SCSS, HTML5, JavaScript, Bootstrap
           </p>
           <p class="text-sm">
-            <span class="text-purple-600 text-xl">✔</span> Opracowywanie nowej wersji front-endu
+            <span class="text-purple-600 text-xl">✔</span> Kodowanie nowej wersji front-endu
             następujących stron internetowych: beszamel.se.pl, eska.pl, se.pl, voxfm.pl,
             architektura.muratorplus.pl, miesiecznik.architektura.muratorplus.pl,
             poradnikzdrowie.pl, eskarock.pl
@@ -52,17 +52,17 @@
             front-endu nowej strony internetowej: eska2.pl
           </p>
           <p class="text-sm">
-            <span class="text-purple-600 text-xl">✔</span> Opracowywanie front-endu nowych usług
+            <span class="text-purple-600 text-xl">✔</span> Kodowanie front-endu nowych serwisów
             internetowych, takich jak: portalobronny.se.pl, targivivelo.pl, vibefm.pl, eska2.pl,
             mediateka.pl
           </p>
           <p class="text-sm">
-            <span class="text-purple-600 text-xl">✔</span> Opracowywanie front-endu systemu
-            zarządzania treścią
+            <span class="text-purple-600 text-xl">✔</span> Kodowanie front-endu systemu zarządzania
+            treścią
           </p>
           <p class="text-sm">
-            <span class="text-purple-600 text-xl">✔</span> Opracowywanie dla wewnętrznych potrzeb
-            firmy
+            <span class="text-purple-600 text-xl">✔</span> Kodowanie funckjonalności dla
+            wewnętrznych potrzeb firmy
           </p>
           <p class="text-sm">
             <span class="text-purple-600 text-xl">✔</span> Współpraca z zespołem odpowiedzialnym za
@@ -81,8 +81,8 @@
             kampanii marketingowych
           </p>
           <p class="text-sm">
-            <span class="text-purple-600 text-xl">✔</span> Współpraca z deweloperami back-endu,
-            testerami jakości, specjalistami SEO, DevOps i projektantami UX/UI
+            <span class="text-purple-600 text-xl">✔</span> Współpraca z deweloperami back-endu, QA,
+            specjalistami SEO, DevOps i projektantami UX/UI
           </p>
         </div>
       </div>
@@ -98,8 +98,8 @@
         <div class="mx-4 my-8">
           <u class="text-md"> Zakres obowiazków: </u>
           <p class="text-sm">
-            <span class="text-purple-600 text-xl">✔</span> Rozwijanie dla wewnętrznych potrzeb
-            firmy
+            <span class="text-purple-600 text-xl">✔</span> Rozwijanie i kodowanie funkcjonalności
+            dla wewnętrznych potrzeb firmy
           </p>
           <p class="text-sm">
             <span class="text-purple-600 text-xl">✔</span> Utrzymanie i rozwijanie front-endu stron
@@ -109,12 +109,12 @@
             <span class="text-purple-600 text-xl">✔</span> Praca w metodologii Agile
           </p>
           <p class="text-sm">
-            <span class="text-purple-600 text-xl">✔</span> Tworzenie stron typu Landing Page dla
+            <span class="text-purple-600 text-xl">✔</span> Kodowanie stron typu Landing Page dla
             kampanii marketingowych
           </p>
           <p class="text-sm">
-            <span class="text-purple-600 text-xl">✔</span> Współpraca z deweloperami back-endu,
-            specjalistami ds. kontroli jakości, specjalistami SEO, DevOps i projektantami UX/UI
+            <span class="text-purple-600 text-xl">✔</span> Współpraca z deweloperami back-endu, QA,
+            specjalistami SEO, DevOps i projektantami UX/UI
           </p>
         </div>
       </div>
