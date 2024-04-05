@@ -26,7 +26,7 @@
         na
         <a
           href="https://github.com/goldipl/DreamTEXwebsite/"
-          class="underline text-purple-600 hover:no-underline"
+          class="underline text-blue-300 hover:no-underline"
           >GitHubie</a
         >.
       </p>

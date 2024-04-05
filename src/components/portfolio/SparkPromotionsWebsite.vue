@@ -28,7 +28,7 @@
         Poniżej przykładowe szablony projektu. Cały projekt znajduje się na
         <a
           href="https://github.com/goldipl/SPARK_PROMOTIONS"
-          class="underline text-purple-600 hover:no-underline"
+          class="underline text-lime-600 hover:no-underline"
           >GitHubie</a
         >.
       </p>
