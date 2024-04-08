@@ -56,7 +56,11 @@ export default AOSInitializer
         </div>
       </div>
       <div class="hidden md:flex" data-aos="fade-left" data-aos-duration="2000">
-        <img src="./../../assets/img/hero/frontend-icons.svg" alt="Frontend Icons" />
+        <img
+          class="frontend-icons-img"
+          src="./../../assets/img/hero/frontend-icons.svg"
+          alt="Frontend Icons"
+        />
       </div>
     </div>
     <div class="white-shape">
@@ -92,5 +96,15 @@ export default AOSInitializer
   background-repeat: no-repeat;
   background-size: 600vh;
   background-attachment: fixed;
+}
+@media (orientation: landscape) and (max-height: 880px) {
+  .white-shape {
+    svg {
+      height: 80px;
+    }
+  }
+  .frontend-icons-img {
+    height: 60vh;
+  }
 }
 </style>
