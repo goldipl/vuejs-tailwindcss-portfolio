@@ -18,9 +18,8 @@
         biblioteki <strong>Swiper.js, Lightbox.js</strong>.
       </p>
       <p class="text-center mx-4">
-        Zawiera stronę główną, stronę kategorii, stronę produktu, formularz kontaktowy, stronę
-        koszyka, panel klienta wraz z zamówieniami, danymi użytkownika, danymi do faktury, czy
-        adresami wysyłki.
+        Zawiera stronę główną, kategorii, produktu; stronę koszyka; panel klienta wraz z
+        zamówieniami, danymi użytkownika, danymi do faktury, czy adresami wysyłki.
       </p>
       <p class="text-center mx-4">
         Poniżej przykładowe szablony projektu. Cały projekt znajduje się na
