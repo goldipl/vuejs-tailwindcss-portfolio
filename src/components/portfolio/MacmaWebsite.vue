@@ -25,7 +25,7 @@
       <p class="text-center mx-4">
         Poniżej przykładowe szablony projektu. Cały projekt znajduje się na
         <a
-          href="https://github.com/goldipl/PROMOTECA"
+          href="https://github.com/goldipl/MACMA"
           class="underline text-orange-600 hover:no-underline"
           >GitHubie</a
         >.
