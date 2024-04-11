@@ -10,7 +10,10 @@
         <strong>Figmie</strong>.
       </p>
       <p class="text-center mx-4">
-        Jest to projekt strony e-commerce oparty na szablonach <strong>PHP</strong> wykorzystujący
+        Jest to projekt strony e-commerce oparty na szablonach <strong>PHP</strong>.
+      </p>
+      <p class="text-center mx-4">
+        W projekcie wykorzystuję
         <strong>HTML5, CSS3, SCSS, Bootstrap 5.3.2, Vanilla JavaScript, jQuery</strong> oraz
         biblioteki <strong>Swiper.js, Lightbox.js</strong>.
       </p>
