@@ -11,11 +11,13 @@
       </p>
       <p class="text-center mx-4">
         Jest to projekt strony e-commerce oparty na szablonach <strong>PHP</strong> wykorzystujący
-        <strong>HTML5, CSS3, SCSS, Vanilla JavaScript, Swiper.js</strong>.
+        <strong>HTML5, CSS3, SCSS, Bootstrap 5.3.2, Vanilla JavaScript, jQuery</strong> oraz
+        biblioteki <strong>Swiper.js, Lightbox.js</strong>.
       </p>
       <p class="text-center mx-4">
-        Zawiera stronę główną, stronę kategorii, stronę produktu, stronę logowania, rejestracji,
-        stronę tekstową, stronę kontaktu, panelu klienta.
+        Zawiera stronę główną, stronę kategorii, stronę produktu, formularz kontaktowy, stronę
+        koszyka, panel klienta wraz z zamówieniami, danymi użytkownika, danymi do faktury, czy
+        adresami wysyłki.
       </p>
       <p class="text-center mx-4">
         Poniżej przykładowe szablony projektu. Cały projekt znajduje się na
