@@ -112,6 +112,10 @@ npm run lint
 ## Screenshots
 
 ![Screenshot](./src/assets/img/portfolio/modern_websites/modern_website_05.jpg)
+![Screenshot](./screenshots/screenshot02.jpg)
+![Screenshot](./screenshots/screenshot03.jpg)
+![Screenshot](./screenshots/screenshot04.jpg)
+![Screenshot](./screenshots/screenshot05.jpg)
 
 ## Additional info
 
