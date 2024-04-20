@@ -116,6 +116,9 @@ npm run lint
 ![Screenshot](./screenshots/screenshot03.jpg)
 ![Screenshot](./screenshots/screenshot04.jpg)
 ![Screenshot](./screenshots/screenshot05.jpg)
+![Screenshot](./screenshots/screenshot06.jpg)
+![Screenshot](./screenshots/screenshot07.jpg)
+![Screenshot](./screenshots/screenshot08.jpg)
 
 ## Additional info
 
