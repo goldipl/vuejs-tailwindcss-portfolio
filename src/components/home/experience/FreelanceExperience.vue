@@ -120,23 +120,13 @@
       >
         <div class="flex mb-3 md:mb-0 md:me-16 md:min-w-[180px]">
           <a
-            href="https://goldipl.github.io/travel-website/"
+            href="https://goldipl.github.io/e-commerce-react/"
             class="underline text-sm decoration-purple-600 hover:no-underline"
             target="_blank"
-            >AroundTheWorld <span>&#10132;</span></a
+            >BuyIt - e-commerce <span>&#10132;</span></a
           >
         </div>
         <div class="flex flex-wrap">
-          <div
-            class="text-gray-300 text-sm hover:text-white px-3 py-1.5 border border-purple-600 hover:bg-purple-600 transition-all duration-500 mt-1 me-2 mb-1"
-          >
-            TypeScript
-          </div>
-          <div
-            class="text-gray-300 text-sm hover:text-white px-3 py-1.5 border border-purple-600 hover:bg-purple-600 transition-all duration-500 mt-1 me-2 mb-1"
-          >
-            Next.js
-          </div>
           <div
             class="text-gray-300 text-sm hover:text-white px-3 py-1.5 border border-purple-600 hover:bg-purple-600 transition-all duration-500 mt-1 me-2 mb-1"
           >
@@ -145,17 +135,17 @@
           <div
             class="text-gray-300 text-sm hover:text-white px-3 py-1.5 border border-purple-600 hover:bg-purple-600 transition-all duration-500 mt-1 me-2 mb-1"
           >
-            Tailwind CSS
+            JavaScript
           </div>
           <div
             class="text-gray-300 text-sm hover:text-white px-3 py-1.5 border border-purple-600 hover:bg-purple-600 transition-all duration-500 mt-1 me-2 mb-1"
           >
-            Boxicons
+            styled-components
           </div>
           <div
             class="text-gray-300 text-sm hover:text-white px-3 py-1.5 border border-purple-600 hover:bg-purple-600 transition-all duration-500 mt-1 me-2 mb-1"
           >
-            HTML5
+            react-icons
           </div>
         </div>
       </div>
