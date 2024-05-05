@@ -120,7 +120,7 @@
       >
         <div class="flex mb-3 md:mb-0 md:me-16 md:min-w-[180px]">
           <a
-            href="https://goldipl.github.io/e-commerce-react/"
+            href="https://goldipl.github.io/e-commerce-react/#/e-commerce-react/"
             class="underline text-sm decoration-purple-600 hover:no-underline"
             target="_blank"
             >BuyIt - e-commerce <span>&#10132;</span></a

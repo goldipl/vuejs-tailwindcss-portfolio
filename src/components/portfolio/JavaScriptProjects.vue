@@ -303,7 +303,7 @@
           >
             <a
               class="uppercase font-semibold text-white text-sm hover:text-black"
-              href="https://goldipl.github.io/e-commerce-react/"
+              href="https://goldipl.github.io/e-commerce-react/#/e-commerce-react/"
               target="_blank"
               >live</a
             >
