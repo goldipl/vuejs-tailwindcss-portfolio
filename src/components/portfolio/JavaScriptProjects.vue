@@ -127,7 +127,7 @@
           >
             <a
               class="uppercase font-semibold text-white text-sm hover:text-black"
-              href="https://goldipl.github.io/ReactWeatherApp/r"
+              href="https://goldipl.github.io/ReactWeatherApp/"
               target="_blank"
               >live</a
             >
