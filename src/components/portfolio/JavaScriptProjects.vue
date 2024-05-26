@@ -413,6 +413,32 @@
             >
           </div>
         </div>
+        <!-- Project -->
+        <div class="relative border border-1 border-purple-600">
+          <img
+            src="./../../assets/img/portfolio/js/JS17.jpg"
+            alt="JavaScript Project"
+            width="410"
+            height="205"
+            class="h-auto"
+          />
+          <div
+            class="absolute left-0 bottom-0 bg-gradient-to-r from-purple-600 from-45% to-black w-48 p-2 flex justify-around items-center"
+          >
+            <a
+              class="uppercase font-semibold text-white text-sm hover:text-black"
+              href="https://goldipl.github.io/3D-race-game/"
+              target="_blank"
+              >live</a
+            >
+            <a
+              class="uppercase font-semibold text-white text-sm hover:text-black"
+              href="https://github.com/goldipl/3D-race-game"
+              target="_blank"
+              >code <span class="text-xs lowercase">(in progress)</span></a
+            >
+          </div>
+        </div>
       </div>
     </div>
   </section>
