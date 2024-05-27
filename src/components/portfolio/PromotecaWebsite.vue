@@ -40,7 +40,7 @@
           >
             <a
               class="uppercase font-semibold text-white text-sm hover:text-black"
-              href="http://promoteca.tiphost.net/"
+              href="https://promoteca.pl/"
               target="_blank"
               >live</a
             >
@@ -66,6 +66,12 @@
           >
             <a
               class="uppercase font-semibold text-white text-sm hover:text-black"
+              href="https://promoteca.pl/artykuly-pismiennicze/"
+              target="_blank"
+              >live</a
+            >
+            <a
+              class="uppercase font-semibold text-white text-sm hover:text-black"
               href="https://github.com/goldipl/PROMOTECA"
               target="_blank"
               >code</a
@@ -84,6 +90,12 @@
           <div
             class="absolute left-0 bottom-0 bg-gradient-to-r from-purple-600 from-45% to-black w-48 p-2 flex justify-around items-center"
           >
+            <a
+              class="uppercase font-semibold text-white text-sm hover:text-black"
+              href="https://promoteca.pl/p/V7624--elastyczna-linijka/"
+              target="_blank"
+              >live</a
+            >
             <a
               class="uppercase font-semibold text-white text-sm hover:text-black"
               href="https://github.com/goldipl/PROMOTECA"
@@ -106,6 +118,12 @@
           >
             <a
               class="uppercase font-semibold text-white text-sm hover:text-black"
+              href="https://promoteca.pl/p/M513--loft-bialy/"
+              target="_blank"
+              >live</a
+            >
+            <a
+              class="uppercase font-semibold text-white text-sm hover:text-black"
               href="https://github.com/goldipl/PROMOTECA"
               target="_blank"
               >code</a
@@ -124,6 +142,12 @@
           <div
             class="absolute left-0 bottom-0 bg-gradient-to-r from-purple-600 from-45% to-black w-48 p-2 flex justify-around items-center"
           >
+            <a
+              class="uppercase font-semibold text-white text-sm hover:text-black"
+              href="https://promoteca.pl/"
+              target="_blank"
+              >live</a
+            >
             <a
               class="uppercase font-semibold text-white text-sm hover:text-black"
               href="https://github.com/goldipl/PROMOTECA"
@@ -146,6 +170,12 @@
           >
             <a
               class="uppercase font-semibold text-white text-sm hover:text-black"
+              href="https://promoteca.pl/register/pl/"
+              target="_blank"
+              >live</a
+            >
+            <a
+              class="uppercase font-semibold text-white text-sm hover:text-black"
               href="https://github.com/goldipl/PROMOTECA"
               target="_blank"
               >code</a
@@ -164,6 +194,12 @@
           <div
             class="absolute left-0 bottom-0 bg-gradient-to-r from-purple-600 from-45% to-black w-48 p-2 flex justify-around items-center"
           >
+            <a
+              class="uppercase font-semibold text-white text-sm hover:text-black"
+              href="https://promoteca.pl/register/pl/"
+              target="_blank"
+              >live</a
+            >
             <a
               class="uppercase font-semibold text-white text-sm hover:text-black"
               href="https://github.com/goldipl/PROMOTECA"
@@ -186,6 +222,12 @@
           >
             <a
               class="uppercase font-semibold text-white text-sm hover:text-black"
+              href="https://promoteca.pl/register/pl/"
+              target="_blank"
+              >live</a
+            >
+            <a
+              class="uppercase font-semibold text-white text-sm hover:text-black"
               href="https://github.com/goldipl/PROMOTECA"
               target="_blank"
               >code</a
@@ -204,6 +246,12 @@
           <div
             class="absolute left-0 bottom-0 bg-gradient-to-r from-purple-600 from-45% to-black w-48 p-2 flex justify-around items-center"
           >
+            <a
+              class="uppercase font-semibold text-white text-sm hover:text-black"
+              href="https://promoteca.pl/register/pl/"
+              target="_blank"
+              >live</a
+            >
             <a
               class="uppercase font-semibold text-white text-sm hover:text-black"
               href="https://github.com/goldipl/PROMOTECA"
