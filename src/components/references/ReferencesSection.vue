@@ -82,6 +82,26 @@
             >
           </div>
         </div>
+        <!-- Reference -->
+        <div class="relative mx-2 md:mx-0 border border-1 border-purple-600">
+          <img
+            src="./../../assets/img/references/reference05.jpg"
+            alt="Reference"
+            width="400"
+            height="800"
+            class="h-auto"
+          />
+          <div
+            class="absolute left-0 bottom-0 bg-gradient-to-r from-purple-600 from-45% to-black w-48 p-2 flex justify-around items-center"
+          >
+            <a
+              class="uppercase font-semibold text-white text-sm hover:text-black"
+              href="https://raw.githubusercontent.com/goldipl/vuejs-tailwindcss-portfolio/master/src/assets/img/references/reference05.jpg"
+              target="_blank"
+              >powiększ</a
+            >
+          </div>
+        </div>
       </div>
     </div>
   </section>
