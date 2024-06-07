@@ -371,7 +371,7 @@
               class="uppercase font-semibold text-white text-sm hover:text-black"
               href="https://github.com/goldipl/furnipol-furnitures"
               target="_blank"
-              >code</a
+              >code <span class="text-xs lowercase">(in progress)</span></a
             >
           </div>
         </div>
