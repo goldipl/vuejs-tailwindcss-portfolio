@@ -355,7 +355,7 @@
       >
         <div class="flex mb-3 md:mb-0 md:me-16 md:min-w-[180px]">
           <a
-            href="http://promoteca.tiphost.net/"
+            href="https://promoteca.pl/"
             class="underline text-sm decoration-purple-600 hover:no-underline"
             target="_blank"
             >Promoteca.pl <span>&#10132;</span></a
