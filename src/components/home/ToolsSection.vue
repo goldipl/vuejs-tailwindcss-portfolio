@@ -139,6 +139,13 @@
         width="80"
         height="80"
       />
+      <img
+        class="m-4 w-16 h-16 md:w-20 md:h-20"
+        src="./../../assets/img/home/tools/jira.svg"
+        alt="Jira"
+        width="80"
+        height="80"
+      />
     </div>
   </section>
 </template>
