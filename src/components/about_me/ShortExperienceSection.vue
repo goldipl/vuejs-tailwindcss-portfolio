@@ -3,6 +3,46 @@
     <div class="wrapper">
       <h1 class="text-3xl text-center mx-4 md:text-4xl mb-10">Doświadczenie</h1>
       <div class="my-6">
+        <p class="text-center mx-4">05.2021 - 03.2024</p>
+        <p
+          class="my-0.5 text-lg text-center mx-4 bg-gradient-to-r from-purple-600 from-15% to-white bg-clip-text text-transparent font-semibold"
+        >
+          Frontend Developer
+        </p>
+        <p class="text-center mx-4">Grupa ZPR Media S.A.</p>
+        <div class="mx-4 my-8">
+          <u class="text-md"> Zakres obowiazków: </u>
+          <p class="text-sm">
+            <span class="text-purple-600 text-xl">✔</span> Kodowanie nowych funkcjonalności za
+            pomocą CSS3, Sass/SCSS, HTML5, JavaScript, Bootstrap
+          </p>
+          <p class="text-sm">
+            <span class="text-purple-600 text-xl">✔</span> Kodowanie frontendu systemu zarządzania
+            treścią
+          </p>
+          <p class="text-sm">
+            <span class="text-purple-600 text-xl">✔</span> Kodowanie na potrzeby wewnętrzne firmy
+          </p>
+          <p class="text-sm">
+            <span class="text-purple-600 text-xl">✔</span> Współpraca z zespołem odpowiedzialnym za
+            utrzymanie i rozwój największych stron internetowych grupy: eska.pl, se.pl, voxfm.pl,
+            muratordom.pl, mjakmama24.pl, poradnikzdrowie.pl i innych
+          </p>
+          <p class="text-sm">
+            <span class="text-purple-600 text-xl">✔</span> Utrzymanie i rozwój frontendu stron
+            internetowych grupy ZPR Media S.A.
+          </p>
+          <p class="text-sm">
+            <span class="text-purple-600 text-xl">✔</span> Praca w metodyce Agile
+          </p>
+          <p class="text-sm">
+            <span class="text-purple-600 text-xl">✔</span> Współpraca z deweloperami back-endu, QA,
+            specjalistami SEO, DevOps i projektantami UX/UI
+          </p>
+        </div>
+      </div>
+      <hr class="mx-4 md:mx-0 my-12" />
+      <div class="my-6">
         <p class="text-center mx-4">06.2023 - obecnie</p>
         <p
           class="my-0.5 text-lg text-center mx-4 bg-gradient-to-r from-purple-600 from-15% to-white bg-clip-text text-transparent font-semibold"
@@ -29,7 +69,7 @@
       </div>
       <hr class="mx-4 md:mx-0 my-12" />
       <div class="my-6">
-        <p class="text-center mx-4">05.2021 - obecnie</p>
+        <p class="text-center mx-4">05.2021 - 03.2024</p>
         <p
           class="my-0.5 text-lg text-center mx-4 bg-gradient-to-r from-purple-600 from-15% to-white bg-clip-text text-transparent font-semibold"
         >
