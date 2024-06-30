@@ -16,6 +16,53 @@
       >
         <div class="flex mb-3 md:mb-0 md:me-16 md:min-w-[180px]">
           <a
+            href="https://goldipl.github.io/furnipol-furnitures/"
+            class="underline text-sm decoration-purple-600 hover:no-underline"
+            target="_blank"
+            >Furnipol <span>&#10132;</span></a
+          >
+        </div>
+        <div class="flex flex-wrap">
+          <div
+            class="text-gray-300 text-sm hover:text-white px-3 py-1.5 border border-purple-600 hover:bg-purple-600 transition-all duration-500 mt-1 me-2 mb-1"
+          >
+            JavaScript
+          </div>
+          <div
+            class="text-gray-300 text-sm hover:text-white px-3 py-1.5 border border-purple-600 hover:bg-purple-600 transition-all duration-500 mt-1 me-2 mb-1"
+          >
+            jQuery
+          </div>
+          <div
+            class="text-gray-300 text-sm hover:text-white px-3 py-1.5 border border-purple-600 hover:bg-purple-600 transition-all duration-500 mt-1 me-2 mb-1"
+          >
+            Swiper.js
+          </div>
+          <div
+            class="text-gray-300 text-sm hover:text-white px-3 py-1.5 border border-purple-600 hover:bg-purple-600 transition-all duration-500 mt-1 me-2 mb-1"
+          >
+            Bootstrap
+          </div>
+          <div
+            class="text-gray-300 text-sm hover:text-white px-3 py-1.5 border border-purple-600 hover:bg-purple-600 transition-all duration-500 mt-1 me-2 mb-1"
+          >
+            HTML5
+          </div>
+          <div
+            class="text-gray-300 text-sm hover:text-white px-3 py-1.5 border border-purple-600 hover:bg-purple-600 transition-all duration-500 mt-1 me-2 mb-1"
+          >
+            SCSS
+          </div>
+        </div>
+      </div>
+      <!-- Project -->
+      <div
+        class="flex flex-col md:flex-row md:items-center justify-start border border-1 rounded-sm border-gray-400 p-4 md:min-w-96 mx-3 mb-3"
+        data-aos="fade-left"
+        data-aos-duration="1000"
+      >
+        <div class="flex mb-3 md:mb-0 md:me-16 md:min-w-[180px]">
+          <a
             href="https://goldipl.github.io/PhotographersLandingPage/"
             class="underline text-sm decoration-purple-600 hover:no-underline"
             target="_blank"
