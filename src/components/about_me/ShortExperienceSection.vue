@@ -3,7 +3,7 @@
     <div class="wrapper">
       <h1 class="text-3xl text-center mx-4 md:text-4xl mb-10">Doświadczenie</h1>
       <div class="my-6">
-        <p class="text-center mx-4">05.2021 - 03.2024</p>
+        <p class="text-center mx-4">04.2024 - obecnie</p>
         <p
           class="my-0.5 text-lg text-center mx-4 bg-gradient-to-r from-purple-600 from-15% to-white bg-clip-text text-transparent font-semibold"
         >

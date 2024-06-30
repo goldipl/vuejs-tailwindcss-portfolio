@@ -1,9 +1,9 @@
 <template>
   <div class="flex items-center justify-center flex-col mt-4">
-    <p class="text-center mx-4">05.2021 - obecnie</p>
+    <p class="text-center mx-4">04.2024 - obecnie</p>
     <strong
       class="my-0.5 text-lg text-center bg-gradient-to-r from-purple-600 from-15% to-white bg-clip-text text-transparent font-semibold"
-      >Web Developer / Webmaster</strong
+      >Frontend Developer</strong
     >
     <p class="text-center mb-8">Grupa ZPR Media S.A.</p>
     <p class="text-center mx-4">Zrealizowane projekty w ramach pracy w zakresie Front-endu:</p>

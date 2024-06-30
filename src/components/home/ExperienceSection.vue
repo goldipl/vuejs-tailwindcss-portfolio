@@ -15,7 +15,7 @@ export default defineComponent({
 </script>
 
 <template>
-  <section id="experience-section" class="pt-16 pb-24 md:pt-16 md:pt-40 md:pb-64">
+  <section id="experience-section" class="pt-16 pb-24 md:pt-40 md:pb-64">
     <h1 class="text-center text-3xl md:text-4xl mb-8">Doświadczenie / Projekty komerycyjne</h1>
     <div class="wrapper">
       <div class="flex justify-center flex-col items-center">
